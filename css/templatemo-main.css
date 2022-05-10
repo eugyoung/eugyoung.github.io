@@ -221,7 +221,7 @@ nav ul {
     justify-content: space-around;
 }
 nav ul li {
-	margin: 25px 0px;
+	margin: 15px 0px;
 }
 nav a, nav a:visited, nav a:active {
   color: #fff;
@@ -237,7 +237,7 @@ nav a {
   	z-index: 0;
 }
 nav a.active {
-  background-color: #65CBC3;
+  background-color: #ef0a52;
   color: #232323;
 }
 nav a::before {
@@ -297,22 +297,22 @@ nav a:hover::before {
 }
 
 .slides .slide:nth-child(1) {
-  background-image: url(../img/first_bg.jpg);
+  background-image: url(../img/bg.jpg);
 }
 .slides .slide:nth-child(2) {
-  background-image: url(../img/second_bg.jpg);
+  background-image: url(../img/bg.jpg);
 }
 .slides .slide:nth-child(3) {
-  background-image: url(../img/third_bg.jpg);
+  background-image: url(../img/bg.jpg);
 }
 .slides .slide:nth-child(4) {
-  background-image: url(../img/fourth_bg.jpg);
+  background-image: url(../img/bg.jpg);
  }
 .slides .slide:nth-child(5) {
-  background-image: url(../img/fifth_bg.jpg);
+  background-image: url(../img/bg.jpg);
 }
 .slides .slide:nth-child(6) {
-  background-image: url(../img/fourth_bg.jpg);
+  background-image: url(../img/bg.jpg);
 }
 .slides .slide img {
   width: 100%;
@@ -370,7 +370,7 @@ nav a:hover::before {
 	text-transform: uppercase;
 	/* 	border-bottom: 2px solid #fff; */
 	font-weight: 700;
-	color: #65CBC3;
+	color: #ef0a52;
 	letter-spacing: 0.5px;
 	display: inline-block;
 	padding-bottom: 10px;
@@ -460,7 +460,7 @@ nav a:hover::before {
 	font-size: 36px;
 	text-transform: uppercase;
 	font-weight: 700;
-	color: #65CBC3;
+	color: #ef0a52;
 	letter-spacing: 0.5px;
 	/* border-bottom: 2px solid #fff; */
 	display: inline-block;
@@ -549,7 +549,7 @@ nav a:hover::before {
 	font-size: 24px;
 	text-transform: uppercase;
 	font-weight: 700;
-	color: #65CBC3;
+	color: #ef0a52;
 	letter-spacing: 0.5px;
 	/* border-bottom: 2px solid #fff; */
 	display: inline-block;
@@ -662,7 +662,7 @@ nav a:hover::before {
 	font-size: 18px;
 	text-transform: uppercase;
 	font-weight: 700;
-	color: #65CBC3;
+	color: #ef0a52;
 	letter-spacing: 0.5px;
 	border-bottom: 1px solid #fff;
 	display: inline-block;
@@ -773,7 +773,7 @@ nav a:hover::before {
 }
 
 .footer .content p a {
-	color: #aaa;
+	color: #ffffff;
 	text-decoration: none;
 }
 
