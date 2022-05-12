@@ -238,7 +238,7 @@ nav a {
 }
 nav a.active {
   background-color: #ef0a52;
-  color: #232323;
+  color: #33e4f4;
 }
 nav a::before {
   content: "";
