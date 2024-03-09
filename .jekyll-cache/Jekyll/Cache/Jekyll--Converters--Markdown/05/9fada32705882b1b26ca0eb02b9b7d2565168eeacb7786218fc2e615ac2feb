@@ -1,0 +1,144 @@
+I"%<div class="publications">
+  <h2 class="year">2022</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 preview"><img class="preview rounded" src="/assets/img/publication_preview/stanford.png" /></div>
+
+        <!-- Entry bib key -->
+        <div id="comm118s_2022" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">COMM118S: Into the Metaverse: Designing the Future of Virtual Worlds</div>
+          <!-- Title -->
+          <div class="authors">Primary Instructor</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          
+
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Course was requested to be retaught by the university due to high ratings</em>
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+            <a href="/assets/pdf/comm118s_syllabus.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>What will the future look like? One idea that is recently gaining attention is the Metaverse, a computer-generated simulation of a world in which people can meet and interact. In this course, students will critically evaluate the current landscape of such conceptualizations of virtual worlds. From the psychological and behavioral mechanisms of how people perceive virtual humans, to the design of virtual spaces and interactions, to the ethical considerations that shape how virtual worlds are regulated, this course will pull from multiple fields to provide a comprehensive understanding of virtual worlds. In the first week, the instructor will distribute Oculus Quest 2 headsets for each student to use and return at the end of the quarter. Using these headsets, we will go on virtual field trips to social worlds. Through in-VR experiences, academic papers and articles, and discussions, students will develop a toolset to learn how to approach designing future virtual worlds.</p>
+          </div>
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 preview"><img class="preview rounded" src="/assets/img/publication_preview/stanford.png" /></div>
+
+        <!-- Entry bib key -->
+        <div id="comm166_2022" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">COMM166/266: Virtual People</div>
+          <!-- Title -->
+          <div class="authors">Teaching Assistant for Professor Jeremy Bailenson</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          
+
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em></em>
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2021</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 preview"><img class="preview rounded" src="/assets/img/publication_preview/stanford.png" /></div>
+
+        <!-- Entry bib key -->
+        <div id="comm166_2021" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">COMM166/266: Virtual People</div>
+          <!-- Title -->
+          <div class="authors">Teaching Assistant for Professor Jeremy Bailenson</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          
+
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em></em>
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2019</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 preview"><img class="preview rounded" src="/assets/img/publication_preview/brown.png" /></div>
+
+        <!-- Entry bib key -->
+        <div id="cs1300_2019" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">CS130(0): User Interfaces &amp; User Experience</div>
+          <!-- Title -->
+          <div class="authors">Teaching Assistant for Professor Jeff Huang</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          
+
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em></em>
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+
+</div>
+
+:ET
