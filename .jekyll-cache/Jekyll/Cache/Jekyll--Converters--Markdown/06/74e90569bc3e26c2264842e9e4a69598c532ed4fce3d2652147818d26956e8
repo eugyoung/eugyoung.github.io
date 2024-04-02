@@ -1,8 +1,8 @@
-I"%<div class="publications">
+I"„<div class="publications">
   <h2 class="year">2022</h2>
   <ol class="bibliography"><li><!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 preview"><img class="preview rounded" src="/assets/img/publication_preview/stanford.png" /></div>
+        <div class="col-sm-2 preview"><img class="preview rounded" src="/eugyoung.github.io/assets/img/publication_preview/stanford.png" /></div>
 
         <!-- Entry bib key -->
         <div id="comm118s_2022" class="col-sm-8">
@@ -27,7 +27,7 @@
           <!-- Links/Buttons -->
           <div class="links">
             <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
-            <a href="/assets/pdf/comm118s_syllabus.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            <a href="/eugyoung.github.io/assets/pdf/comm118s_syllabus.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
           </div>
 
           <!-- Hidden abstract block -->
@@ -39,7 +39,7 @@
 </li>
 <li><!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 preview"><img class="preview rounded" src="/assets/img/publication_preview/stanford.png" /></div>
+        <div class="col-sm-2 preview"><img class="preview rounded" src="/eugyoung.github.io/assets/img/publication_preview/stanford.png" /></div>
 
         <!-- Entry bib key -->
         <div id="comm166_2022" class="col-sm-8">
@@ -73,7 +73,7 @@
   <h2 class="year">2021</h2>
   <ol class="bibliography"><li><!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 preview"><img class="preview rounded" src="/assets/img/publication_preview/stanford.png" /></div>
+        <div class="col-sm-2 preview"><img class="preview rounded" src="/eugyoung.github.io/assets/img/publication_preview/stanford.png" /></div>
 
         <!-- Entry bib key -->
         <div id="comm166_2021" class="col-sm-8">
@@ -107,7 +107,7 @@
   <h2 class="year">2019</h2>
   <ol class="bibliography"><li><!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 preview"><img class="preview rounded" src="/assets/img/publication_preview/brown.png" /></div>
+        <div class="col-sm-2 preview"><img class="preview rounded" src="/eugyoung.github.io/assets/img/publication_preview/brown.png" /></div>
 
         <!-- Entry bib key -->
         <div id="cs1300_2019" class="col-sm-8">

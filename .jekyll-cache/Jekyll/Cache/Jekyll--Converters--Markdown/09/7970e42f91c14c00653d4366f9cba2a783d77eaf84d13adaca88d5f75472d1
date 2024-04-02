@@ -1,9 +1,9 @@
-I"ùj<!-- _pages/publications.md -->
+I"l<!-- _pages/publications.md -->
 <div class="publications">
   <h2 class="year">2024</h2>
   <ol class="bibliography"><li><!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 preview"><img class="preview rounded" src="/assets/img/publication_preview/han_ceilingheight.jpg" /></div>
+        <div class="col-sm-2 preview"><img class="preview rounded" src="/eugyoung.github.io/assets/img/publication_preview/han_ceilingheight.jpg" /></div>
 
         <!-- Entry bib key -->
         <div id="han_ceilingheight_2024" class="col-sm-8">
@@ -30,7 +30,7 @@
           <!-- Links/Buttons -->
           <div class="links">
             <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
-            <a href="/assets/pdf/han_spatialdimensions.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            <a href="/eugyoung.github.io/assets/pdf/han_spatialdimensions.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
           </div>
 
           <!-- Hidden abstract block -->
@@ -42,7 +42,7 @@
 </li>
 <li><!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 preview"><img class="preview rounded" src="/assets/img/publication_preview/wang_DS_2024.jpg" /></div>
+        <div class="col-sm-2 preview"><img class="preview rounded" src="/eugyoung.github.io/assets/img/publication_preview/wang_DS_2024.jpg" /></div>
 
         <!-- Entry bib key -->
         <div id="wang_understanding_2024" class="col-sm-8">
@@ -69,7 +69,7 @@
           <!-- Links/Buttons -->
           <div class="links">
             <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
-            <a href="/assets/pdf/wang_designstudies.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            <a href="/eugyoung.github.io/assets/pdf/wang_designstudies.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
           </div>
 
           <!-- Hidden abstract block -->
@@ -83,7 +83,7 @@
   <h2 class="year">2023</h2>
   <ol class="bibliography"><li><!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 preview"><img class="preview rounded" src="/assets/img/publication_preview/akselrad_bodyCrumple_2023.png" /></div>
+        <div class="col-sm-2 preview"><img class="preview rounded" src="/eugyoung.github.io/assets/img/publication_preview/akselrad_bodyCrumple_2023.png" /></div>
 
         <!-- Entry bib key -->
         <div id="akselrad_body_2023" class="col-sm-8">
@@ -110,7 +110,7 @@
           <!-- Links/Buttons -->
           <div class="links">
             <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
-            <a href="/assets/pdf/akselrad_bodycrumple.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            <a href="/eugyoung.github.io/assets/pdf/akselrad_bodycrumple.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
           </div>
 
           <!-- Hidden abstract block -->
@@ -122,7 +122,7 @@
 </li>
 <li><!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 preview"><img class="preview rounded" src="/assets/img/publication_preview/deveaux_discrepancy_2023.jpg" /></div>
+        <div class="col-sm-2 preview"><img class="preview rounded" src="/eugyoung.github.io/assets/img/publication_preview/deveaux_discrepancy_2023.jpg" /></div>
 
         <!-- Entry bib key -->
         <div id="deveaux_exploring_2023" class="col-sm-8">
@@ -149,7 +149,7 @@
           <!-- Links/Buttons -->
           <div class="links">
             <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
-            <a href="/assets/pdf/deveaux_avatardiscrepancy.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            <a href="/eugyoung.github.io/assets/pdf/deveaux_avatardiscrepancy.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
           </div>
 
           <!-- Hidden abstract block -->
@@ -161,7 +161,7 @@
 </li>
 <li><!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 preview"><img class="preview rounded" src="/assets/img/publication_preview/deveaux_language_2023.png" /></div>
+        <div class="col-sm-2 preview"><img class="preview rounded" src="/eugyoung.github.io/assets/img/publication_preview/deveaux_language_2023.png" /></div>
 
         <!-- Entry bib key -->
         <div id="deveaux_descriptive_2023" class="col-sm-8">
@@ -188,7 +188,7 @@
           <!-- Links/Buttons -->
           <div class="links">
             <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
-            <a href="/assets/pdf/deveaux_language.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            <a href="/eugyoung.github.io/assets/pdf/deveaux_language.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
           </div>
 
           <!-- Hidden abstract block -->
@@ -200,7 +200,7 @@
 </li>
 <li><!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 preview"><img class="preview rounded" src="/assets/img/publication_preview/han_peopleplaces_2023.png" /></div>
+        <div class="col-sm-2 preview"><img class="preview rounded" src="/eugyoung.github.io/assets/img/publication_preview/han_peopleplaces_2023.png" /></div>
 
         <!-- Entry bib key -->
         <div id="han_people_2023" class="col-sm-8">
@@ -227,7 +227,7 @@
           <!-- Links/Buttons -->
           <div class="links">
             <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
-            <a href="/assets/pdf/han_peopleplaces.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            <a href="/eugyoung.github.io/assets/pdf/han_peopleplaces.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
           </div>
 
           <!-- Hidden abstract block -->
@@ -239,7 +239,7 @@
 </li>
 <li><!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 preview"><img class="preview rounded" src="/assets/img/publication_preview/miller_proxemics_2023.png" /></div>
+        <div class="col-sm-2 preview"><img class="preview rounded" src="/eugyoung.github.io/assets/img/publication_preview/miller_proxemics_2023.png" /></div>
 
         <!-- Entry bib key -->
         <div id="r_miller_large-scale_2023" class="col-sm-8">
@@ -266,7 +266,7 @@
           <!-- Links/Buttons -->
           <div class="links">
             <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
-            <a href="/assets/pdf/miller_proxemics.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            <a href="/eugyoung.github.io/assets/pdf/miller_proxemics.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
           </div>
 
           <!-- Hidden abstract block -->
@@ -278,7 +278,7 @@
 </li>
 <li><!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 preview"><img class="preview rounded" src="/assets/img/publication_preview/queiroz_cscl_2023.png" /></div>
+        <div class="col-sm-2 preview"><img class="preview rounded" src="/eugyoung.github.io/assets/img/publication_preview/queiroz_cscl_2023.png" /></div>
 
         <!-- Entry bib key -->
         <div id="queiroz_collaborative_2023" class="col-sm-8">
@@ -305,7 +305,7 @@
           <!-- Links/Buttons -->
           <div class="links">
             <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
-            <a href="/assets/pdf/queiroz_learningivr.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            <a href="/eugyoung.github.io/assets/pdf/queiroz_learningivr.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
           </div>
 
           <!-- Hidden abstract block -->
@@ -319,7 +319,7 @@
   <h2 class="year">2022</h2>
   <ol class="bibliography"><li><!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 preview"><img class="preview rounded" src="/assets/img/publication_preview/han_tmb_2022.png" /></div>
+        <div class="col-sm-2 preview"><img class="preview rounded" src="/eugyoung.github.io/assets/img/publication_preview/han_tmb_2022.png" /></div>
 
         <!-- Entry bib key -->
         <div id="han_prerequisites_2022" class="col-sm-8">
@@ -346,7 +346,7 @@
           <!-- Links/Buttons -->
           <div class="links">
             <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
-            <a href="/assets/pdf/han_prerequisiteslearning.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            <a href="/eugyoung.github.io/assets/pdf/han_prerequisiteslearning.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
           </div>
 
           <!-- Hidden abstract block -->
@@ -360,7 +360,7 @@
   <h2 class="year">2020</h2>
   <ol class="bibliography"><li><!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 preview"><img class="preview rounded" src="/assets/img/publication_preview/amit_corruption_2020.png" /></div>
+        <div class="col-sm-2 preview"><img class="preview rounded" src="/eugyoung.github.io/assets/img/publication_preview/amit_corruption_2020.png" /></div>
 
         <!-- Entry bib key -->
         <div id="amit_how_2020" class="col-sm-8">
@@ -387,7 +387,7 @@
           <!-- Links/Buttons -->
           <div class="links">
             <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
-            <a href="/assets/pdf/han_institutionalcorruption.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            <a href="/eugyoung.github.io/assets/pdf/han_institutionalcorruption.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
           </div>
 
           <!-- Hidden abstract block -->
