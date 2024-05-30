@@ -14,6 +14,35 @@ const sidebarBtn = document.querySelector("[data-sidebar-btn]");
 // sidebar toggle functionality for mobile
 sidebarBtn.addEventListener("click", function () { elementToggleFunc(sidebar); });
 
+// Expand button 
+document.querySelectorAll('.expandButton').forEach(button => {
+  button.addEventListener('click', function() {
+    const expandableText = this.parentElement.querySelector('.expandableText');
+    if (expandableText.classList.contains('collapsed')) {
+      expandableText.classList.remove('collapsed');
+      expandableText.classList.add('expanded');
+      this.textContent = 'Hide Description';
+    } else {
+      expandableText.classList.remove('expanded');
+      expandableText.classList.add('collapsed');
+      this.textContent = 'Description';
+    }
+  });
+});
+
+// Link button
+document.querySelectorAll('.linkButton').forEach(button => {
+  button.addEventListener('click', function(event) {
+    // Prevent the default behavior of the button (e.g., form submission)
+    event.preventDefault();
+    
+    // Retrieve the link URL from the button's href attribute
+    const linkURL = this.getAttribute('href');
+    
+    // Navigate to the link URL
+    window.location.href = linkURL;
+  });
+});
 
 
 // testimonials variables

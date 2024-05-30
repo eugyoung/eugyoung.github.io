@@ -70,9 +70,9 @@
   --bittersweet-shimmer: hsl(0, 43%, 51%);
 */
 
-  --blue--crayola: hsl(200, 60%, 70%); /* for highlighting to blue*/
-  --dark-blue: hsl(200, 60%, 60%);
-  --timeline--blue: hsl(197, 53%, 82%); /* for timeline items */
+--blue--crayola: #FF3333; /* for highlighting to red */
+--dark-blue: hsl(0, 100%, 32%);
+--timeline--blue: hsl(0, 100%, 32%); /* for timeline items */
 
   /**
    * typography
@@ -149,7 +149,7 @@ input, textarea {
 }
 
 ::selection {
-  background: var(--blue--crayola);
+  background: #d3d3d3; /* for highlighting to grey */
   color: var(--smoky-black);
 }
 
@@ -223,13 +223,14 @@ article.active {
 .h3,
 .h4,
 .h5 {
-  color: var(--white-2);
+/*  color: var(--white-2);*/
   text-transform: capitalize;
 }
 
-.h2 { font-size: var(--fs-1); }
+.h2 { font-size: var(--fs-1); color: #FF3333}
 
-.h3 { font-size: var(--fs-2); }
+.h3 { font-size: var(--fs-2); 
+color: #FF3333}
 
 .h4 { font-size: var(--fs-4); }
 
@@ -329,8 +330,9 @@ main {
 
 .avatar-box {
   background: var(--bg-gradient-onyx);
-  border-radius: 20px;
+  border-radius: 50%;
 }
+
 
 .info-content .name {
   color: var(--white-2);
@@ -483,7 +485,25 @@ main {
 
 .navbar-link.active { color: var(--blue--crayola); }
 
+/*-----------------------------------*\
+  #FOOTER
+\*-----------------------------------*/
 
+
+.footer {
+  background-color: #d3d3d3; 
+  color: #909090;
+  text-align: right; 
+  height: 3vh; 
+  line-height: 3vh; 
+  position: fixed; 
+  width: 100%; 
+  bottom: 0; 
+}
+
+.footer p {
+  margin: 0; 
+}
 
 
 
@@ -491,16 +511,16 @@ main {
   #ABOUT
 \*-----------------------------------*/
 
-.about .article-title { margin-bottom: 15px; }
+.about .article-title { margin-bottom: 1.2px; }
 
 .about-text {
   color: var(--light-gray);
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
-  line-height: 1.6;
+  line-height: 1.5;
 }
 
-.about-text p { margin-bottom: 15px; }
+.about-text p { margin-bottom: 1.2px; }
 
 
 
@@ -542,9 +562,11 @@ main {
   z-index: -1;
 }
 
-.service-icon-box { margin-bottom: 10px; }
+.service-icon-box { margin-bottom: 10px;    
+}
 
-.service-icon-box img { margin-left: -30px;}
+.service-icon-box img { margin-left: -30px;  border-radius: 12%; display: block; /* Avoids inline spacing issues */
+}
 
 .service-content-box { text-align: left; }
 
@@ -1274,8 +1296,8 @@ textarea.form-input::-webkit-resizer { display: none; }
      * typography
      */
 
-    --fs-1: 32px;
-    --fs-2: 24px;
+    --fs-1: 40px;
+    --fs-2: 18px;
     --fs-3: 26px;
     --fs-4: 18px;
     --fs-6: 15px;
@@ -1325,7 +1347,6 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
 
 
-
   /**
    * #SIDEBAR
    */
@@ -1339,7 +1360,9 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .sidebar-info { gap: 25px; }
 
-  .avatar-box { border-radius: 30px; }
+  .avatar-box { border-radius: 12%;   
+    display: block; /* Avoids inline spacing issues */
+}
 
   .avatar-box img { width: 120px; }
 
@@ -1831,13 +1854,15 @@ textarea.form-input::-webkit-resizer { display: none; }
     max-height: max-content;
     height: 100%;
     margin-bottom: 0;
-    padding-top: 60px;
+    padding-top: 35px;
     z-index: 1;
   }
 
   .sidebar-info { flex-direction: column; }
 
-  .avatar-box img { width: 150px; }
+  .avatar-box img {width: 150px;   
+    border-radius: 10%; /* This makes the image circular */
+}
 
   .info-content .name {
     white-space: nowrap;
@@ -1867,11 +1892,40 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
 
   .separator:last-of-type {
-    margin: 15px 0;
+    margin: 1px 0;
     opacity: 0;
   }
 
   .social-list { justify-content: center; }
+
+/* Expand button */
+.expandableText.collapsed {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.5s ease-out;
+}
+
+.expandableText.expanded {
+  max-height: 200px; /* Adjust based on the content height */
+  transition: max-height 0.2s ease-in;
+}
+
+.expandButton, .linkButton {
+  margin-top: 10px; /* Adjust spacing as needed */
+  border: 1px solid #FF3333; /* Add a 1px solid black border */
+  padding: 8px 16px; /* Add padding to give the button some space */
+  background-color: transparent; /* Set background to transparent */
+  color: #FF3333; /* Set text color */
+  cursor: pointer; /* Add pointer cursor to indicate interactivity */
+  transition: background-color 0.1s ease; /* Add transition effect */
+  display: inline-block; /* Ensure buttons are displayed inline */
+
+}
+
+.expandButton:hover, .linkButton:hover {
+  background-color: #FF3333; /* Change background color to red on hover */
+  color: #ffffff; /* Change text color to white on hover */
+}
 
 
 
