@@ -1,5 +1,5 @@
 ---
-title: "Alone Together, Together Alone: The Effects of Social Context on Nonverbal Behavior in Virtual Reality †"
+title: "Alone Together, Together Alone: The Effects of Social Context on Nonverbal Behavior in Virtual Reality"
 collection: publications
 permalink: /publications/009-presence-2024
 excerpt: 'Social virtual reality (VR), by definition, focuses on people, using networked VR systems to bring avatars together. Previous studies have examined how different factors affect social interaction, in small groups such as dyads or triads. However, in a typical social VR scene there tends to be dozens of avatars, even those not directly interacting with a given user. Furthermore, beyond the virtual environment, VR users are also situated in various immediate physical social contexts. In this 2-study paper, we look at how the presence of other virtual people and physical people contextualize and influence nonverbal behaviors.'

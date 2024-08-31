@@ -31,6 +31,7 @@ author_profile: true
 
 
 <h1 style="color: #E10600">Talks, Presentations, and Demos</h1>
+* Presentation for the Institute of Public Relations, 2024
 * Guest Lecture for “Technology and Wellbeing” (Stanford University), 2024
 * Talk and Demo for UC Berkeley/Belmont Village Retirees (UC Berkeley), 2024
 * Talk at Metaverse and Education Conference (Lycée Français de New York), 2024
