@@ -20,7 +20,7 @@ author_profile: true
 <h2 style="color: #E10600">Peer-Reviewed Journal Publications</h2>
 <h3>Social Interactions in Immersive Environments</h3>
 
-* <b>Han, E.</b>, DeVeaux, C., Miller, M.R., Harari, G.M., Hancock, J.T., Ram, N., & Bailenson, J.N. (2024). "Alone Together, Together Alone: The Effects of Social Context on Nonverbal Behavior in Virtual Reality" in <i>PRESENCE: Virtual and Augmented Reality</i> .[Details↗](/publications/009-presence-2024) ⭐️ 
+* <b>Han, E.</b>, DeVeaux, C., Miller, M.R., Harari, G.M., Hancock, J.T., Ram, N., & Bailenson, J.N. (2024). "Alone Together, Together Alone: The Effects of Social Context on Nonverbal Behavior in Virtual Reality" in <i>PRESENCE: Virtual and Augmented Reality</i>. [Details↗](/publications/009-presence-2024) ⭐️ 
 
 * DeVeaux, C., Markowitz, D. M., <b>Han, E.</b>, Miller, M. R., Hancock, J. T., & Bailenson, J. N. (2024). "Presence and Pronouns: An Exploratory Investigation into the Language of Social VR" in <i>Journal of Language and Social Psychology</i>. [Details↗](/publications/008-jlsp-2024) 
 
@@ -61,7 +61,7 @@ author_profile: true
 * <b>Han, E.</b>, & Bailenson, J.N. (2023). "Moral Behavior in Virtual Reality" in Kissel, A., & Ramirez, E. (Eds.), <i>Exploring Extended Realities: Metaphysical, Psychological, and Ethical Challenges</i>. Routledge. [PDF↗](/publications/pdfs/han-moralbehavior-2023.pdf)
 
 
-* <b>Han, E.</b>, & Quintero, S.I. (2023). "Enacting Virtual Boundaries: Music Video and the Changing Technological Landscape" in Jirsa, T., Korsgaard, T.B. (Eds.), <i>Traveling Music Videos</i>. Bloomsbury Publishing USA. PDF↗](/publications/pdfs/han-musicvideos-2023.pdf)
+* <b>Han, E.</b>, & Quintero, S.I. (2023). "Enacting Virtual Boundaries: Music Video and the Changing Technological Landscape" in Jirsa, T., Korsgaard, T.B. (Eds.), <i>Traveling Music Videos</i>. Bloomsbury Publishing USA. [PDF↗](/publications/pdfs/han-musicvideos-2023.pdf)
 
 * DeVeaux, C., <b>Han, E.</b>, Bailenson, J.N. (2022). "Expanding Education through Virtual Reality" in McKenzie, S. P., Arulkadacham, L., Chung, J., & Aziz, Z. (Eds.), <i>The Future of Online Education</i>. Nova Science Publishers. 
 
