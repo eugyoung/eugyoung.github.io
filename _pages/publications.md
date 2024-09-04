@@ -160,7 +160,21 @@ author_profile: true
 
 <h2 style="color: #E10600">Conference Proceedings</h2>
 <table style="width: 100%; border-collapse: collapse;">
-  <!-- First Row -->
+   <!-- New Row -->
+  <tr>
+    <td style="padding-right: 10px;">
+      <img src="/images/journalCover_wowmom.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
+    </td>
+    <td>
+      <b>Title:</b> CEffect of Duration and Delay on the Identifiability of VR Motion<br>
+      <b>Authors:</b> Miller, M. R., Nair, V.C., Wang, R., Han, E., Huang, B., DeVeaux, C., Rack, C., Latoschik, M., O’Brien, J., Bailenson, J. N.<br>
+      <b>Publisher & Year:</b> <i>IEEE 25th International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM)</i>, 2024<br>
+      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/pdfs/miller-ieee-identifiability-2024.pdf', '_blank')">Paper</button>
+    </td>
+  </tr>
+
+
+  <!-- New Row -->
   <tr>
     <td style="padding-right: 10px;">
       <img src="/images/journalCover_ilrn.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
@@ -172,7 +186,7 @@ author_profile: true
     </td>
   </tr>
   
-  <!-- Second Row -->
+  <!-- New Row -->
   <tr>
     <td style="padding-right: 10px;">
       <img src="/images/journalCover_cscw.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
@@ -185,7 +199,7 @@ author_profile: true
     </td>
   </tr>
   
-  <!-- Third Row -->
+  <!-- New Row -->
   <tr>
     <td style="padding-right: 10px;">
       <img src="/images/journalCover_ieeeVR.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
@@ -198,7 +212,7 @@ author_profile: true
     </td>
   </tr>
   
-  <!-- Fourth Row -->
+  <!-- New Row -->
   <tr>
     <td style="padding-right: 10px;">
       <img src="/images/journalCover_ieeeVR.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
@@ -211,7 +225,7 @@ author_profile: true
     </td>
   </tr>
   
-  <!-- Fifth Row -->
+  <!-- New Row -->
   <tr>
     <td style="padding-right: 10px;">
       <img src="/images/journalCover_iscl.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
