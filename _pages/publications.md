@@ -166,7 +166,7 @@ author_profile: true
       <img src="/images/journalCover_wowmom.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
     </td>
     <td>
-      <b>Title:</b> CEffect of Duration and Delay on the Identifiability of VR Motion<br>
+      <b>Title:</b> Effect of Duration and Delay on the Identifiability of VR Motion<br>
       <b>Authors:</b> Miller, M. R., Nair, V.C., Wang, R., Han, E., Huang, B., DeVeaux, C., Rack, C., Latoschik, M., O’Brien, J., Bailenson, J. N.<br>
       <b>Publisher & Year:</b> <i>IEEE 25th International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM)</i>, 2024<br>
       <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/pdfs/miller-ieee-identifiability-2024.pdf', '_blank')">Paper</button>
