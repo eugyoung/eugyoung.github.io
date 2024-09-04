@@ -14,14 +14,13 @@ author_profile: true
 * Proposed and designed a course for Stanford’s summer quarter
 * Course was requested to be retaught by the university due to high ratings
 
-[Syllabus](/teaching/comm118s-syllabus.pdf)
-
+<button type="button" class="btn btn-primary btn-sm" onclick="window.open('/teaching/comm118s-syllabus.pdf', '_blank')">Syllabus</button>
 
 <h2>COMM166/266: Virtual People</h2>
 <i>Teaching Assistant to Professor Jeremy N. Bailenson, Stanford University, 2021; 2022; 2024</i>
 * Lead course designer for first large-scale course inside VR
 
-[Syllabus](https://vhil.stanford.edu/downloads/comm166)
+<button type="button" class="btn btn-primary btn-sm" onclick="window.open('https://vhil.stanford.edu/downloads/comm166', '_blank')">Syllabus</button>
 
 <h2>COMM114S: Technology and Wellbeing</h2>
 <i>Teaching Assistant to Angela Lee, Stanford University, 2024</i>

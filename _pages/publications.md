@@ -17,71 +17,272 @@ author_profile: true
 ⭐️ denotes highlighted works
 
 <h2 style="color: #E10600">Peer-Reviewed Journal Publications</h2>
-<h3>Social Interactions in Immersive Environments</h3>
+<h3 style="color: #E10600">Social Interactions in Immersive Environments</h3>
 
-| <img src="/images/presence_cover.png"> | <b>Han, E.</b>, DeVeaux, C., Miller, M.R., Harari, G.M., Hancock, J.T., Ram, N., & Bailenson, J.N. (2024). "Alone Together, Together Alone: The Effects of Social Context on Nonverbal Behavior in Virtual Reality" in <i>PRESENCE: Virtual and Augmented Reality</i>. ⭐️ <br><button type="button" class="btn btn-primary btn-sm" onclick=" window.open('/publications/009-presence-2024','_blank')">Details</button> <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('/publications/pdfs/han-presence-2024.pdf','_blank')">Paper</button> | 
+<!-- Pixel size of images:-200 x 250 pixels --> 
+<table style="width: 100%; border-collapse: collapse;">
+  <!-- First Row -->
+  <tr>
+    <td style="padding-right: 10px;">
+      <img src="/images/journalCover_presence.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
+    </td>
+    <td>
+      <b>Title:</b> Alone Together, Together Alone: The Effects of Social Context on Nonverbal Behavior in Virtual Reality<br>
+      <b>Authors:</b> <u>Han, E.</u>, DeVeaux, C., Miller, M. R., Harari, G.M., Hancock, J. T., Ram, N., & Bailenson, J. N.<br>
+      <b>Publisher & Year:</b> <i>PRESENCE: Virtual and Augmented Reality</i>, 2024 ⭐️<br>
+      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/009-presence-2024', '_blank')">Details</button>
+      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/pdfs/han-presence-2024.pdf', '_blank')">Paper</button>
+    </td>
+  </tr>
+  
+  <!-- Second Row -->
+  <tr>
+    <td style="padding-right: 10px;">
+      <img src="/images/journalCover_jlsp.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
+    </td>
+    <td>
+      <b>Title:</b> Presence and Pronouns: An Exploratory Investigation into the Language of Social VR<br>
+      <b>Authors:</b> DeVeaux, C., Markowitz, D. M., <u>Han, E.</u>, Miller, M. R., Hancock, J. T., & Bailenson, J. N.<br>
+      <b>Publisher & Year:</b> <i>Journal of Language and Social Psychology</i>, 2024<br>
+      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/008-jlsp-2024', '_blank')">Details</button>
+      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/pdfs/deveaux-jlsp-2024.pdf', '_blank')">Paper</button>
+    </td>
+  </tr>
+  
+  <!-- Third Row -->
+  <tr>
+    <td style="padding-right: 10px;">
+      <img src="/images/journalCover_jep.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
+    </td>
+    <td>
+      <b>Title:</b> The Influence of Spatial Dimensions of Virtual Environments on Individuals and Group Dynamics During Social Interactions<br>
+      <b>Authors:</b> <u>Han, E.</u>, DeVeaux, C., Hancock, J. T., Ram, N., Harari, G.M., & Bailenson, J. N.<br>
+      <b>Publisher & Year:</b> <i>Journal of Environmental Psychology</i>, 2024 ⭐️<br>
+      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/006-jep-2024', '_blank')">Details</button>
+      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/pdfs/han-jep-2024.pdf', '_blank')">Paper</button>
+    </td>
+  </tr>
+  
+  <!-- Fourth Row -->
+  <tr>
+    <td style="padding-right: 10px;">
+      <img src="/images/journalCover_designStudies.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
+    </td>
+    <td>
+      <b>Title:</b> Understanding virtual design behaviors: A large-scale analysis of the design process in Virtual Reality<br>
+      <b>Authors:</b> Wang, P., Miller, M. R., <u>Han, E.</u>, DeVeaux, C., & Bailenson, J. N.<br>
+      <b>Publisher & Year:</b> <i>Design Studies</i>, 2024<br>
+      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/004-designstudies-2024', '_blank')">Details</button>
+      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/pdfs/wang-designstudies-2024.pdf', '_blank')">Paper</button>
+    </td>
+  </tr>
+  
+  <!-- Fifth Row -->
+  <tr>
+    <td style="padding-right: 10px;">
+      <img src="/images/journalCover_cyberpsych.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
+    </td>
+    <td>
+      <b>Title:</b> Exploring the Relationship Between Attribute Discrepancy and Avatar Embodiment in Immersive Social Virtual Reality<br>
+      <b>Authors:</b> DeVeaux, C., <u>Han, E.</u>, Landay, J.A., & Bailenson, J. N.<br>
+      <b>Publisher & Year:</b> <i>Cyberpsychology, Behavior, and Social Networking</i>, 2023<br>
+      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/003-cyberpsych-2023', '_blank')">Details</button>
+      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/pdfs/deveaux-cyberpsych-2023.pdf', '_blank')">Paper</button>
+    </td>
+  </tr>
+  
+  <!-- Sixth Row -->
+  <tr>
+    <td style="padding-right: 10px;">
+      <img src="/images/journalCover_jcmc.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
+    </td>
+    <td>
+      <b>Title:</b> People, Places, and Time: A Large-scale, Longitudinal Study of Transformed Avatars and Environmental Context in Group Interaction in the Metaverse<br>
+      <b>Authors:</b> <u>Han, E.</u>, Miller, M. R., DeVeaux, C., Jun, H., Nowak, K.L., Hancock, J. T., Ram, N., & Bailenson, J. N.<br>
+      <b>Publisher & Year:</b> <i>Journal of Computer-Mediated Communication</i>, 2023 ⭐️<br>
+      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/002-jcmc-2023', '_blank')">Details</button>
+      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/pdfs/han-jcmc-2023.pdf', '_blank')">Paper</button>
+    </td>
+  </tr>
+</table>
+
+<h3 style="color: #E10600">Integrating Immersive Technologies into the Classroom</h3>
+
+<table style="width: 100%; border-collapse: collapse;">
+  <!-- First Row -->
+  <tr>
+    <td style="padding-right: 10px;">
+      <img src="/images/journalCover_commed.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
+    </td>
+    <td>
+      <b>Title:</b> Lessons for/in Virtual Classrooms: Designing a Model for Classrooms inside Virtual Reality<br>
+      <b>Authors:</b> <u>Han, E.</u>, & Bailenson, J. N.<br>
+      <b>Publisher & Year:</b> <i>Communication Education</i>, 2024 ⭐️<br>
+      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/007-commed-2024', '_blank')">Details</button>
+      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/pdfs/han-commed-2024.pdf', '_blank')">Paper</button>
+    </td>
+  </tr>
+  
+  <!-- Second Row -->
+  <tr>
+    <td style="padding-right: 10px;">
+      <img src="/images/journalCover_tmb.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
+    </td>
+    <td>
+      <b>Title:</b> Prerequisites for Learning in Networked Immersive Virtual Reality<br>
+      <b>Authors:</b> <u>Han, E.</u>, Nowak, K. L., & Bailenson, J. N.<br>
+      <b>Publisher & Year:</b> <i>Technology, Mind, and Behavior</i>, 2022 ⭐️<br>
+      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/001-tmb-2022', '_blank')">Details</button>
+      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/pdfs/han-tmb-2022.pdf', '_blank')">Paper</button>
+    </td>
+  </tr>
+</table>
 
 
+<h3 style="color: #E10600">Behavior and Psychology of Mixed Reality</h3>
 
-
-DeVeaux, C., Markowitz, D. M., <b>Han, E.</b>, Miller, M. R., Hancock, J. T., & Bailenson, J. N. (2024). "Presence and Pronouns: An Exploratory Investigation into the Language of Social VR" in <i>Journal of Language and Social Psychology</i>. 
-
-<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('/publications/008-jlsp-2024','_blank')">Details</button>
-<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('/publications/pdfs/deveaux-jlsp-2024.pdf','_blank')">Paper</button>
-
-
-<b>Han, E.</b>, DeVeaux, C., Hancock, J.T., Ram, N., Harari, G.M., & Bailenson, J.N. (2024). "The Influence of Spatial Dimensions of Virtual Environments on Individuals and Group Dynamics During Social Interactions" in <i>Journal of Environmental Psychology</i>. ⭐️
-
-<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('/publications/006-jep-2024','_blank')">Details</button>
-<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('/publications/pdfs/han-jep-2024.pdf','_blank')">Paper</button>
-
-Wang, P., Miller, M. R., <b>Han, E.</b>, DeVeaux, C., & Bailenson, J. N. (2024). "Understanding virtual design behaviors: A large-scale analysis of the design process in Virtual Reality" in <i>Design Studies</i>. 
-
-<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('/publications/004-designstudies-2024', '_blank')">Details</button>
-<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('/publications/pdfs/wang-designstudies-2024.pdf','_blank')">Paper</button>
-
-DeVeaux, C., <b>Han, E.</b>, Landay, J.A., & Bailenson, J.N. (2023). "Exploring the Relationship Between Attribute Discrepancy and Avatar Embodiment in Immersive Social Virtual Reality" in <i>Cyberpsychology, Behavior, and Social Networking</i>. 
-
-<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('/publications/003-cyberpsych-2023','_blank')">Details</button>
-<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('/publications/pdfs/deveaux-cyberpsych-2023.pdf','_blank')">Paper</button>
-
-<b>Han, E.</b>, Miller, M.R., DeVeaux, C., Jun, H., Nowak, K.L., Hancock, J.T., Ram, N., & Bailenson, J.N. (2023). "People, Places, and Time: A Large-scale, Longitudinal Study of Transformed Avatars and Environmental Context in Group Interaction in the Metaverse" in <i>Journal of Computer-Mediated Communication</i>. 
-
-<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('/publications/002-jcmc-2023','_blank')">Details</button>
-<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('/publications/pdfs/han-jcmc-2023.pdf','_blank')">Paper</button>
-
-<h3>Integrating Immersive Technologies into the Classroom</h3>
-
-* <b>Han, E.</b>, & Bailenson, J.N. (2024). "Lessons for/in Virtual Classrooms: Designing a Model for Classrooms inside Virtual Reality" in <i>Communication Education</i>. [Details↗](/publications/007-commed-2024) ⭐️
-
-* <b>Han, E.</b>, Nowak, K.L., & Bailenson, J.N. (2022). "Prerequisites for Learning in Networked Immersive Virtual Reality" in <i>Technology, Mind, and Behavior</i>. [Details↗](/publications/001-tmb-2022) ⭐️
-
-<h3>Behavior and Psychology of Mixed Reality</h3>
-
-* Bailenson, J. N., Beams, B., Brown, J., DeVeaux, C., <b>Han, E.</b>, Queiroz, A. C. M., Ratan, R., Santoso, M., Srirangarajan, T., Tao, Y., & Wang, P. (2024). "Seeing the World through Digital Prisms: Psychological Implications of Passthrough Video Usage in Mixed Reality" in <i>Technology, Mind, and Behavior</i>. [Details↗](/publications/005-tmb2-2024)
+<table style="width: 100%; border-collapse: collapse;">
+  <!-- First Row -->
+  <tr>
+    <td style="padding-right: 10px;">
+      <img src="/images/journalCover_tmb.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
+    </td>
+    <td>
+      <b>Title:</b> Seeing the World through Digital Prisms: Psychological Implications of Passthrough Video Usage in Mixed Reality<br>
+      <b>Authors:</b> Bailenson, J. N., Beams, B., Brown, J., DeVeaux, C., <u>Han, E.</u>, Queiroz, A. C. M., Ratan, R., Santoso, M., Srirangarajan, T., Tao, Y., & Wang, P.<br>
+      <b>Publisher & Year:</b> <i>Technology, Mind, and Behavior</i>, 2024<br>
+      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/005-tmb2-2024', '_blank')">Details</button>
+      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/pdfs/han-tmb-2024.pdf', '_blank')">Paper</button>
+    </td>
+  </tr>
+</table>
 
 
 <h2 style="color: #E10600">Conference Proceedings</h2>
-* McGivney, E., Queiroz, A.C.M., Miller, M.R., Liu, S., Beams, B., <b>Han, E.</b>, Woolsey, E.S., Frazier, K., Petersen, X., Hancock, J., Bailenson, J. (2024). "Complexity of Agency in VR Learning Environments: Exploring Associations with Interactivity, Learning Outcomes, and Affect" in <i>Immersive Learning Research Network (iLRN)</i>.
+<table style="width: 100%; border-collapse: collapse;">
+  <!-- First Row -->
+  <tr>
+    <td style="padding-right: 10px;">
+      <img src="/images/journalCover_ilrn.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
+    </td>
+    <td>
+      <b>Title:</b> Complexity of Agency in VR Learning Environments: Exploring Associations with Interactivity, Learning Outcomes, and Affect<br>
+      <b>Authors:</b> McGivney, E., Queiroz, A. C. M., Miller, M. R., Liu, S., Beams, B., <u>Han, E.</u>, Woolsey, E. S., Frazier, K., Petersen, X., Hancock, J. T., Bailenson, J. N.<br>
+      <b>Publisher & Year:</b> <i>Immersive Learning Research Network (iLRN)</i>, 2024<br>
+    </td>
+  </tr>
+  
+  <!-- Second Row -->
+  <tr>
+    <td style="padding-right: 10px;">
+      <img src="/images/journalCover_cscw.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
+    </td>
+    <td>
+      <b>Title:</b> Body Crumple, Sound Intrusion, and Embodiment Violation: Toward a Framework for Miscommunication in VR<br>
+      <b>Authors:</b> Akselrad, D., DeVeaux, C., <u>Han, E.</u>, Miller, M. R., & Bailenson, J. N.<br>
+      <b>Publisher & Year:</b> <i>Computer-Supported Cooperative Work And Social Computing (CSCW)</i>, 2023<br>
+      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/pdfs/akselrad-cscw-2023.pdf', '_blank')">Paper</button>
+    </td>
+  </tr>
+  
+  <!-- Third Row -->
+  <tr>
+    <td style="padding-right: 10px;">
+      <img src="/images/journalCover_ieeeVR.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
+    </td>
+    <td>
+      <b>Title:</b> Descriptive Linguistic Patterns of Group Conversations in VR<br>
+      <b>Authors:</b> DeVeaux, C., Markowitz, D. M., <u>Han, E.</u>, Miller, M. R., Hancock, J. T., & Bailenson, J. N.<br>
+      <b>Publisher & Year:</b> <i>IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)</i>, 2023<br>
+      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/pdfs/deveaux-ieee-2023.pdf', '_blank')">Paper</button>
+    </td>
+  </tr>
+  
+  <!-- Fourth Row -->
+  <tr>
+    <td style="padding-right: 10px;">
+      <img src="/images/journalCover_ieeeVR.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
+    </td>
+    <td>
+      <b>Title:</b> A Large-Scale Study of Proxemics and Gaze in Groups<br>
+      <b>Authors:</b> Miller, M. R., DeVeaux, C., <u>Han, E.</u>, Ram, N., & Bailenson, J. N.<br>
+      <b>Publisher & Year:</b> <i>IEEE Conference Virtual Reality and 3D User Interfaces (VR)</i>, 2023<br>
+      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/pdfs/miller-ieee-2023.pdf', '_blank')">Paper</button>
+    </td>
+  </tr>
+  
+  <!-- Fifth Row -->
+  <tr>
+    <td style="padding-right: 10px;">
+      <img src="/images/journalCover_iscl.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
+    </td>
+    <td>
+      <b>Title:</b> Collaborative Tasks in Immersive Virtual Reality Increase Learning<br>
+      <b>Authors:</b> Queiroz, A., McGivney, E., Xiu, S. L., Anderson, C., Beams, B., DeVeaux, C., Frazier, K., <u>Han, E.</u>, ... & Bailenson, J. N.<br>
+      <b>Publisher & Year:</b> <i>Proceedings of the 16th Conference on Computer-Supported Collaborative Learning (CSCL)</i>, 2023<br>
+      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/pdfs/queiroz-isls-2023.pdf', '_blank')">Paper</button>
+    </td>
+  </tr>
+</table>
 
-* Akselrad, D., DeVeaux, C., <b>Han, E.</b>, Miller, M.R., & Bailenson, J.N. (2023). "Body Crumple, Sound Intrusion, and Embodiment Violation: Toward a Framework for Miscommunication in VR" in <i>Computer-Supported Cooperative Work And Social Computing (CSCW)</i>. [PDF↗](/publications/pdfs/akselrad-cscw-2023.pdf)
 
-* DeVeaux, C., Markowitz, D. M., <b>Han, E.</b>, Miller, M. R., Hancock, J. T., & Bailenson, J. N.  (2023). "Descriptive Linguistic Patterns of Group Conversations in VR" in <i>IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)</i>. [PDF↗](/publications/pdfs/deveaux-ieee-2023.pdf)
-
-* Miller, M. R., DeVeaux, C., <b>Han, E.</b>, Ram, N., & Bailenson, J. N. (2023). "A Large-Scale Study of Proxemics and Gaze in Groups" in <i>IEEE Conference Virtual Reality and 3D User Interfaces (VR)</i>. [PDF↗](/publications/pdfs/miller-ieee-2023.pdf)
-
-* Queiroz, A., McGivney, E., Xiu, S.L., Anderson, C., Beams, B., DeVeaux, C., Frazier, K., <b>Han, E.</b>, ... & Bailenson, J. N. (2023). "Collaborative Tasks in Immersive Virtual Reality Increase Learning" in <i>Proceedings of the 16th Conference on Computer-Supported Collaborative Learning (CSCL)</i>. [PDF↗](/publications/pdfs/queiroz-isls-2023.pdf)
 
 
 <h2 style="color: #E10600">Book Chapters</h2>
-* <b>Han, E.</b>, & Bailenson, J.N. (2024). "Social Interaction in VR" in <i>Oxford Research Encyclopedia of Communication</i>. [PDF↗](/publications/pdfs/han-socialinteraction-2024.pdf) ⭐️
 
-* <b>Han, E.</b>, & Bailenson, J.N. (2023). "Moral Behavior in Virtual Reality" in Kissel, A., & Ramirez, E. (Eds.), <i>Exploring Extended Realities: Metaphysical, Psychological, and Ethical Challenges</i>. Routledge. [PDF↗](/publications/pdfs/han-moralbehavior-2023.pdf)
+<table style="width: 100%; border-collapse: collapse;">
+  <!-- First Row -->
+  <tr>
+    <td style="padding-right: 10px;">
+      <img src="/images/journalCover_ore.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
+    </td>
+    <td>
+      <b>Title:</b> Social Interaction in VR<br>
+      <b>Authors:</b> <u>Han, E.</u>, & Bailenson, J. N.<br>
+      <b>Publisher & Year:</b> <i>Oxford Research Encyclopedia of Communication</i>, 2024 ⭐️<br>
+      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/pdfs/han-socialinteraction-2024.pdf', '_blank')">Paper</button>
+    </td>
+  </tr>
+  
+  <!-- Second Row -->
+  <tr>
+    <td style="padding-right: 10px;">
+      <img src="/images/journalCover_moralBehavior.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
+    </td>
+    <td>
+      <b>Title:</b> Moral Behavior in Virtual Reality<br>
+      <b>Authors:</b> <u>Han, E.</u>, & Bailenson, J. N.<br>
+      <b>Publisher & Year:</b> Kissel, A., & Ramirez, E. (Eds.), <i>Exploring Extended Realities: Metaphysical, Psychological, and Ethical Challenges</i>, Routledge, 2023<br>
+      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/pdfs/han-moralbehavior-2023.pdf', '_blank')">Paper</button>
+    </td>
+  </tr>
+  
+  <!-- Third Row -->
+  <tr>
+    <td style="padding-right: 10px;">
+      <img src="/images/journalCover_musicVideos.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
+    </td>
+    <td>
+      <b>Title:</b> Enacting Virtual Boundaries: Music Video and the Changing Technological Landscape<br>
+      <b>Authors:</b> <u>Han, E.</u>, & Quintero, S. I.<br>
+      <b>Publisher & Year:</b> Jirsa, T., Korsgaard, T. B. (Eds.), <i>Traveling Music Videos</i>, Bloomsbury Publishing USA, 2023<br>
+      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/pdfs/han-musicvideos-2023.pdf', '_blank')">Paper</button>
+    </td>
+  </tr>
+  
+  <!-- Fourth Row -->
+  <tr>
+    <td style="padding-right: 10px;">
+      <img src="/images/journalCover_onlineEducation.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
+    </td>
+    <td>
+      <b>Title:</b> Expanding Education through Virtual Reality<br>
+      <b>Authors:</b> DeVeaux, C., <u>Han, E.</u>, Bailenson, J. N.<br>
+      <b>Publisher & Year:</b> McKenzie, S. P., Arulkadacham, L., Chung, J., & Aziz, Z. (Eds.), <i>The Future of Online Education</i>, Nova Science Publishers, 2022<br>
+    </td>
+  </tr>
+</table>
 
-
-* <b>Han, E.</b>, & Quintero, S.I. (2023). "Enacting Virtual Boundaries: Music Video and the Changing Technological Landscape" in Jirsa, T., Korsgaard, T.B. (Eds.), <i>Traveling Music Videos</i>. Bloomsbury Publishing USA. [PDF↗](/publications/pdfs/han-musicvideos-2023.pdf)
-
-* DeVeaux, C., <b>Han, E.</b>, Bailenson, J.N. (2022). "Expanding Education through Virtual Reality" in McKenzie, S. P., Arulkadacham, L., Chung, J., & Aziz, Z. (Eds.), <i>The Future of Online Education</i>. Nova Science Publishers. 
 
 
 <!--{% for post in site.publications reversed %}
