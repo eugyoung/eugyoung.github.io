@@ -6,9 +6,9 @@ table {
   margin-bottom: 1em;
   width: 100%;
   font-family: $global-font-family;
-  font-size: $type-size-6;
+  font-size: $type-size-5;
   border-collapse: collapse;
-  border: 1px solid $light-gray;
+  border: none;  // Remove outer table border
 
   & + table {
     margin-top: 1em;
@@ -17,20 +17,20 @@ table {
 
 thead {
   background-color: $lighter-gray;
-  border-bottom: 1px solid $light-gray;
+  border-bottom: none;  // Remove the bottom border from the table header
 }
 
 th {
   padding: 0.5em;
   font-weight: bold;
   text-align: left;
-  border-right: 1px solid $light-gray;
+  border-right: none;  // Remove the right border from the table header cells
 }
 
 td {
   padding: 0.5em;
-  border-bottom: 1px solid $light-gray;
-  border-right: 1px solid $light-gray;
+  border-bottom: none;  // Remove the bottom border from table data cells
+  border-right: none;  // Remove the right border from table data cells
 }
 
 tr, td, th {

@@ -16,21 +16,39 @@ author_profile: true
 
 ⭐️ denotes highlighted works
 
-
 <h2 style="color: #E10600">Peer-Reviewed Journal Publications</h2>
 <h3>Social Interactions in Immersive Environments</h3>
 
-* <b>Han, E.</b>, DeVeaux, C., Miller, M.R., Harari, G.M., Hancock, J.T., Ram, N., & Bailenson, J.N. (2024). "Alone Together, Together Alone: The Effects of Social Context on Nonverbal Behavior in Virtual Reality" in <i>PRESENCE: Virtual and Augmented Reality</i>. [Details↗](/publications/009-presence-2024) ⭐️ 
+| <img src="/images/presence_cover.png"> | <b>Han, E.</b>, DeVeaux, C., Miller, M.R., Harari, G.M., Hancock, J.T., Ram, N., & Bailenson, J.N. (2024). "Alone Together, Together Alone: The Effects of Social Context on Nonverbal Behavior in Virtual Reality" in <i>PRESENCE: Virtual and Augmented Reality</i>. ⭐️ <br><button type="button" class="btn btn-primary btn-sm" onclick=" window.open('/publications/009-presence-2024','_blank')">Details</button> <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('/publications/pdfs/han-presence-2024.pdf','_blank')">Paper</button> | 
 
-* DeVeaux, C., Markowitz, D. M., <b>Han, E.</b>, Miller, M. R., Hancock, J. T., & Bailenson, J. N. (2024). "Presence and Pronouns: An Exploratory Investigation into the Language of Social VR" in <i>Journal of Language and Social Psychology</i>. [Details↗](/publications/008-jlsp-2024) 
 
-* <b>Han, E.</b>, DeVeaux, C., Hancock, J.T., Ram, N., Harari, G.M., & Bailenson, J.N. (2024). "The Influence of Spatial Dimensions of Virtual Environments on Individuals and Group Dynamics During Social Interactions" in <i>Journal of Environmental Psychology</i>. [Details↗](/publications/006-jep-2024) ⭐️
 
-* Wang, P., Miller, M. R., <b>Han, E.</b>, DeVeaux, C., & Bailenson, J. N. (2024). "Understanding virtual design behaviors: A large-scale analysis of the design process in Virtual Reality" in <i>Design Studies</i>. [Details↗](/publications/004-designstudies-2024)
 
-* DeVeaux, C., <b>Han, E.</b>, Landay, J.A., & Bailenson, J.N. (2023). "Exploring the Relationship Between Attribute Discrepancy and Avatar Embodiment in Immersive Social Virtual Reality" in <i>Cyberpsychology, Behavior, and Social Networking</i>. [Details↗](003-cyberpsych-2023)
+DeVeaux, C., Markowitz, D. M., <b>Han, E.</b>, Miller, M. R., Hancock, J. T., & Bailenson, J. N. (2024). "Presence and Pronouns: An Exploratory Investigation into the Language of Social VR" in <i>Journal of Language and Social Psychology</i>. 
 
-* <b>Han, E.</b>, Miller, M.R., DeVeaux, C., Jun, H., Nowak, K.L., Hancock, J.T., Ram, N., & Bailenson, J.N. (2023). "People, Places, and Time: A Large-scale, Longitudinal Study of Transformed Avatars and Environmental Context in Group Interaction in the Metaverse" in <i>Journal of Computer-Mediated Communication</i>. [Details↗](/publications/002-jcmc-2023) ⭐️
+<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('/publications/008-jlsp-2024','_blank')">Details</button>
+<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('/publications/pdfs/deveaux-jlsp-2024.pdf','_blank')">Paper</button>
+
+
+<b>Han, E.</b>, DeVeaux, C., Hancock, J.T., Ram, N., Harari, G.M., & Bailenson, J.N. (2024). "The Influence of Spatial Dimensions of Virtual Environments on Individuals and Group Dynamics During Social Interactions" in <i>Journal of Environmental Psychology</i>. ⭐️
+
+<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('/publications/006-jep-2024','_blank')">Details</button>
+<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('/publications/pdfs/han-jep-2024.pdf','_blank')">Paper</button>
+
+Wang, P., Miller, M. R., <b>Han, E.</b>, DeVeaux, C., & Bailenson, J. N. (2024). "Understanding virtual design behaviors: A large-scale analysis of the design process in Virtual Reality" in <i>Design Studies</i>. 
+
+<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('/publications/004-designstudies-2024', '_blank')">Details</button>
+<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('/publications/pdfs/wang-designstudies-2024.pdf','_blank')">Paper</button>
+
+DeVeaux, C., <b>Han, E.</b>, Landay, J.A., & Bailenson, J.N. (2023). "Exploring the Relationship Between Attribute Discrepancy and Avatar Embodiment in Immersive Social Virtual Reality" in <i>Cyberpsychology, Behavior, and Social Networking</i>. 
+
+<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('/publications/003-cyberpsych-2023','_blank')">Details</button>
+<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('/publications/pdfs/deveaux-cyberpsych-2023.pdf','_blank')">Paper</button>
+
+<b>Han, E.</b>, Miller, M.R., DeVeaux, C., Jun, H., Nowak, K.L., Hancock, J.T., Ram, N., & Bailenson, J.N. (2023). "People, Places, and Time: A Large-scale, Longitudinal Study of Transformed Avatars and Environmental Context in Group Interaction in the Metaverse" in <i>Journal of Computer-Mediated Communication</i>. 
+
+<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('/publications/002-jcmc-2023','_blank')">Details</button>
+<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('/publications/pdfs/han-jcmc-2023.pdf','_blank')">Paper</button>
 
 <h3>Integrating Immersive Technologies into the Classroom</h3>
 
