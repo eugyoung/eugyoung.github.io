@@ -21,7 +21,6 @@ author_profile: true
 
 <!-- Pixel size of images:-200 x 250 pixels --> 
 <table style="width: 100%; border-collapse: collapse;">
-  <!-- First Row -->
   <tr>
     <td style="padding-right: 10px;">
       <img src="/images/journalCover_presence.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
@@ -35,7 +34,6 @@ author_profile: true
     </td>
   </tr>
   
-  <!-- Second Row -->
   <tr>
     <td style="padding-right: 10px;">
       <img src="/images/journalCover_jlsp.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
@@ -49,7 +47,6 @@ author_profile: true
     </td>
   </tr>
   
-  <!-- Third Row -->
   <tr>
     <td style="padding-right: 10px;">
       <img src="/images/journalCover_jep.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
@@ -63,7 +60,6 @@ author_profile: true
     </td>
   </tr>
   
-  <!-- Fourth Row -->
   <tr>
     <td style="padding-right: 10px;">
       <img src="/images/journalCover_designStudies.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
@@ -77,7 +73,6 @@ author_profile: true
     </td>
   </tr>
   
-  <!-- Fifth Row -->
   <tr>
     <td style="padding-right: 10px;">
       <img src="/images/journalCover_cyberpsych.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
@@ -91,7 +86,6 @@ author_profile: true
     </td>
   </tr>
   
-  <!-- Sixth Row -->
   <tr>
     <td style="padding-right: 10px;">
       <img src="/images/journalCover_jcmc.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
@@ -106,10 +100,22 @@ author_profile: true
   </tr>
 </table>
 
-<h3 style="color: #E10600">Integrating Immersive Technologies into the Classroom</h3>
+<h3 style="color: #E10600">Integrating Immersive Technologies into Learning and Storytelling</h3>
 
 <table style="width: 100%; border-collapse: collapse;">
-  <!-- First Row -->
+
+  <tr>
+    <td style="padding-right: 10px;">
+      <img src="/images/journalCover_mac.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
+    </td>
+    <td>
+      <b>Title:</b> How Different Training Types and Computer Anxiety Influence Performance and Experiences in Virtual Reality<br>
+      <b>Authors:</b> <u>Han, E.</u>, Strate, I., Nowak, K. L., & Bailenson, J. N.<br>
+      <b>Publisher & Year:</b> <i>Media and Communication</i>, In Press ⭐️<br>
+    </td>
+  </tr>
+
+
   <tr>
     <td style="padding-right: 10px;">
       <img src="/images/journalCover_commed.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">
@@ -123,7 +129,6 @@ author_profile: true
     </td>
   </tr>
   
-  <!-- Second Row -->
   <tr>
     <td style="padding-right: 10px;">
       <img src="/images/journalCover_tmb.png" alt="Journal Cover" style="max-width: 100px; height: auto; display: block;">

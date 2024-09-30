@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Eugy (pronounced oo-ghee), a 4th year Ph.D. candidate at Stanford University. I'm advised by Professor Jeremy N. Bailenson at the [Virtual Human Interaction Lab](https://vhil.stanford.edu/) at Stanford University. Prior to Stanford, I was advised by Professor William H. Warren at the [Virtual Environment Navigation Lab](https://sites.brown.edu/venlab/about/) at Brown University, where I also received my B.S. in Cognitive Science. 
+Hi, I'm Eugy (pronounced oo-ghee), a 5th year Ph.D. candidate at Stanford University. I'm advised by Professor Jeremy N. Bailenson at the [Virtual Human Interaction Lab](https://vhil.stanford.edu/) at Stanford University. Prior to Stanford, I was advised by Professor William H. Warren at the [Virtual Environment Navigation Lab](https://sites.brown.edu/venlab/about/) at Brown University, where I also received my B.S. in Cognitive Science. 
 
 My research focuses on understanding what social interactions look like in immersive virtual environments, such as virtual and mixed reality. Specifically, I investigate __how contextual factors — physical, virtual, and social — influence these interactions__. I conduct large-scale, longitudinal studies to understand outcomes such as nonverbal behaviors and psychological processes. My work related to this has been covered by [VentureBeat](https://venturebeat.com/games/vr-study-shows-virtual-avatars-and-environments-can-affect-your-mood/) and [Stanford News](https://news.stanford.edu/2022/12/14/vr-real-impact-study-finds/#).
 
