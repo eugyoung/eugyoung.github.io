@@ -157,7 +157,7 @@ author_profile: true
       <b>Authors:</b> Bailenson, J. N., Beams, B., Brown, J., DeVeaux, C., <u>Han, E.</u>, Queiroz, A. C. M., Ratan, R., Santoso, M., Srirangarajan, T., Tao, Y., & Wang, P.<br>
       <b>Publisher & Year:</b> <i>Technology, Mind, and Behavior</i>, 2024<br>
       <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/005-tmb2-2024', '_blank')">Details</button>
-      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/pdfs/han-tmb-2024.pdf', '_blank')">Paper</button>
+      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/pdfs/bailenson-tmb-2024.pdf', '_blank')">Paper</button>
     </td>
   </tr>
 </table>
