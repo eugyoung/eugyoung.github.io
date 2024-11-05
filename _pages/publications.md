@@ -111,7 +111,9 @@ author_profile: true
     <td>
       <b>Title:</b> How Different Training Types and Computer Anxiety Influence Performance and Experiences in Virtual Reality<br>
       <b>Authors:</b> <u>Han, E.</u>, Strate, I., Nowak, K. L., & Bailenson, J. N.<br>
-      <b>Publisher & Year:</b> <i>Media and Communication</i>, In Press ⭐️<br>
+      <b>Publisher & Year:</b> <i>Media and Communication</i>, 2024 ⭐️<br>
+      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/010-mac-2024', '_blank')">Details</button>
+      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/pdfs/han-mac-2024.pdf', '_blank')">Paper</button>
     </td>
   </tr>
 
