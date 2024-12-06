@@ -17,7 +17,6 @@ Below are my highlighted works. You can also read my full <a href="{{site.author
 
 <h2 style="color: #E10600">Social Interactions in Immersive Environments</h2>
 
-<!-- Pixel size of images:-200 x 250 pixels --> 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="padding-right: 10px; width: 20%;"> 
