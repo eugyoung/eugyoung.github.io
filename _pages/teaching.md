@@ -30,6 +30,8 @@ author_profile: true
 
 
 <h1 style="color: #E10600">Talks, Presentations, and Demos</h1>
+* Lab Tour for Vinnova (Swedish Innovation Agency), 2024
+* Guest Lecture for “Virtual People” (Stanford University), 2024
 * Presentation for the Institute of Public Relations, 2024
 * Guest Lecture for “Technology and Wellbeing” (Stanford University), 2024
 * Talk and Demo for UC Berkeley/Belmont Village Retirees (UC Berkeley), 2024
@@ -37,8 +39,10 @@ author_profile: true
 * Lab Tour for Professor Sandra Ponzanesi (Utrecht University), 2024
 * Talk at University of Southern California (Institute of Creative Technologies), 2024
 * Lab Tour for Professor Tamara Makana Chock (Syracuse University), 2024
+* Mobile lab demo for California Academy of Sciences, 2024
 * Lab Tour for Professor Misha Sra (UC Santa Barbara), 2024
 * Guest Lecture at University of Florida (Digital Worlds Institute), 2023
+* Mobile lab demo for eWear, 2023
 * Panel Guest at AWE USA Conference, 2023
 * Panel Guest at Stanford XR Conference, 2023
 * Lab Tour for Dr. Hubert Etienne (Meta), 2023
