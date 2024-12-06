@@ -18,7 +18,7 @@ Below are some projects I have worked on in the past.
   <img src="/images/projects_cave_2.JPG" alt="Image 4" style="height: auto; width: 100%; display: block;">
 </div>
 
-  <p>Visualization is a powerful tool for enhancing understanding of complex data and concepts. Here, the YURT Ultimate Reality Theater (a cylindrical CAVE) is used to visualize the interaction between a foot and substrate, shedding light on how track shapes develop. Footprint fossils have various interpretations, as tracks form through complex interactions between foot anatomy, motion, and substrate consistency. Viewing particle movement as a narrative helps unravel this intricate historical sequence.</p>
+  <p>Visualization is a powerful tool that can enhance understanding of complex data and concepts. Historically, scientists have had different interpretations of footprint fossils, as tracks form through complex interactions between foot anatomy, motion, and substrate consistency. Here, the YURT Ultimate Reality Theater (a cylindrical CAVE) is used to create new visualizations of the interaction between a foot and substrate, shedding light on how track shapes develop. Viewing substrate particle movement as a narrative can help unravel this intricate sequence.</p>
 
   <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/pdfs/projects_cave.pdf', '_blank')">Images</button>
   
@@ -29,7 +29,7 @@ Below are some projects I have worked on in the past.
   <img src="/images/projects_unreality_3.gif" alt="Image 4" style="height: auto; width: 100%; display: block;">
 </div>
 
-  <p>Can VR help us think about words in different ways? What about words that difficult for people to conjure mental representations of? 14 people used TiltBrush, a drawing application in VR, to create a representation of the word "unreality."</p>
+  <p>Can VR help us think about words in different ways? What about words that are difficult for people to conjure mental representations of? Here, VR is used as a tool to help translate abstract thoughts into concrete 3D representations. 14 people used TiltBrush, a drawing application in VR, to create a representation of the word "unreality."</p>
 
 <h2 style="color: #E10600">Computer-generated 3D images</h2>
 
