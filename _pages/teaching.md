@@ -9,23 +9,23 @@ author_profile: true
 
 <h1 style="color: #E10600">Teaching</h1>
 
-<h2>COMM118S: Into the Metaverse: Designing the Future of Virtual Worlds</h2>
-<i>Primary Instructor, Stanford University, 2022</i>
-* Proposed and designed a course for Stanford’s summer quarter
-* Course was requested to be retaught by the university due to high ratings
+<b>COMM118S: Into the Metaverse: Designing the Future of Virtual Worlds</b> [<a href="/teaching/comm118s-syllabus.pdf" target="_blank">Syllabus</a>]<br>
+<i>Primary Instructor, Stanford University, 2022</i><br>
+→ Proposed and designed a course for Stanford’s summer quarter<br>
+→ Course was requested to be retaught by the university due to high ratings
 
-<button type="button" class="btn btn-primary btn-sm" onclick="window.open('/teaching/comm118s-syllabus.pdf', '_blank')">Syllabus</button>
+<!-- <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/teaching/comm118s-syllabus.pdf', '_blank')">Syllabus</button> -->
 
-<h2>COMM166/266: Virtual People</h2>
-<i>Teaching Assistant to Professor Jeremy N. Bailenson, Stanford University, 2021; 2022; 2024</i>
-* Lead course designer for first large-scale course inside VR
+<b>COMM166/266: Virtual People</b> [<a href="https://vhil.stanford.edu/downloads/comm166" target="_blank">Syllabus</a>]<br>
+<i>Teaching Assistant to Professor Jeremy N. Bailenson, Stanford University, 2021; 2022; 2024</i><br>
+→ Lead course designer for first large-scale course inside VR
 
-<button type="button" class="btn btn-primary btn-sm" onclick="window.open('https://vhil.stanford.edu/downloads/comm166', '_blank')">Syllabus</button>
+<!-- <button type="button" class="btn btn-primary btn-sm" onclick="window.open('https://vhil.stanford.edu/downloads/comm166', '_blank')">Syllabus</button> -->
 
-<h2>COMM114S: Technology and Wellbeing</h2>
+<b>COMM114S: Technology and Wellbeing</b><br>
 <i>Teaching Assistant to Angela Lee, Stanford University, 2024</i>
 
-<h2>CS130(0): User Interfaces/User Experience</h2>
+<b>CS130(0): User Interfaces/User Experience</b><br>
 <i>Teaching Assistant to Professor Jeff Huang, Brown University, 2019</i>
 
 
