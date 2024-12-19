@@ -59,19 +59,6 @@ Below are my highlighted works. You can also read my full <a href="{{site.author
   
   <tr>
     <td style="padding-right: 10px;">
-      <img src="/images/wang2024designstudies_preview.png" alt="Journal Cover" style="height: auto; display: block;">
-    </td>
-    <td>
-      <b>Title:</b> Understanding virtual design behaviors: A large-scale analysis of the design process in Virtual Reality<br>
-      <b>Authors:</b> Wang, P., Miller, M.R., <u>Han, E.</u>, DeVeaux, C., & Bailenson, J.N.<br>
-      <b>Publisher & Year:</b> <i>Design Studies</i>, 2024<br>
-      <!-- <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/004-designstudies-2024', '_blank')">Details</button> -->
-      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/pdfs/wang-designstudies-2024.pdf', '_blank')">PDF</button>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding-right: 10px;">
       <img src="/images/deveaux2023_cyberpsych.png" alt="Journal Cover" style="height: auto; display: block;">
     </td>
     <td>
@@ -114,7 +101,6 @@ Below are my highlighted works. You can also read my full <a href="{{site.author
     </td>
   </tr>
 
-
   <tr>
     <td style="padding-right: 10px;">
       <img src="/images/han2024commed_preview2.png" alt="Journal Cover" style="height: auto; display: block;">
@@ -142,6 +128,37 @@ Below are my highlighted works. You can also read my full <a href="{{site.author
   </tr>
 </table>
 
+<h2 style="color: #E10600">Designing and Creating in Virtual Reality</h2>
+
+<table style="width: 100%; border-collapse: collapse;">
+
+  <tr>
+    <td style="padding-right: 10px; width: 20%;">
+      <img src="/images/han2024tsc_preview.jpg" alt="Journal Cover" style="height: auto; display: block;">
+    </td>
+    <td>
+      <b>Title:</b> Understanding the role of virtual mobility on how and what people create in virtual reality<br>
+      <b>Authors:</b> <u>Han, E.</u>, Wang, P., DeVeaux, C., Harari, G.M., & Bailenson, J.N.<br>
+      <b>Publisher & Year:</b> <i>Thinking Skills & Creativity</i>, 2024<br>
+      <!-- <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/004-designstudies-2024', '_blank')">Details</button> -->
+      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/pdfs/han-tsc-2024.pdf', '_blank')">PDF</button>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding-right: 10px; width: 20%;">
+      <img src="/images/wang2024designstudies_preview.png" alt="Journal Cover" style="height: auto; display: block;">
+    </td>
+    <td>
+      <b>Title:</b> Understanding virtual design behaviors: A large-scale analysis of the design process in Virtual Reality<br>
+      <b>Authors:</b> Wang, P., Miller, M.R., <u>Han, E.</u>, DeVeaux, C., & Bailenson, J.N.<br>
+      <b>Publisher & Year:</b> <i>Design Studies</i>, 2024<br>
+      <!-- <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/004-designstudies-2024', '_blank')">Details</button> -->
+      <button type="button" class="btn btn-primary btn-sm" onclick="window.open('/publications/pdfs/wang-designstudies-2024.pdf', '_blank')">PDF</button>
+    </td>
+  </tr>
+</table>
+
 
 <h2 style="color: #E10600">Behavior and Psychology of Mixed Reality</h2>
 
@@ -159,6 +176,7 @@ Below are my highlighted works. You can also read my full <a href="{{site.author
     </td>
   </tr>
 </table>
+
 
 
 <!-- <h2 style="color: #E10600">Conference Proceedings</h2>
