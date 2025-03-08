@@ -11,10 +11,7 @@ main:
     url: /teaching/    
     
   - title: "Press"
-    url: /press/
-
-  - title: "Creative 🎨"
-    url: /creative/    
+    url: /press/ 
 
         
  # - title: "Blog Posts"
