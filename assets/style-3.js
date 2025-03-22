@@ -1,5 +1,5 @@
 // Initialize font properties
-const fontname = "Roboto+Mono";
+const fontname = "Source+Sans+3";
 const fontweights = [300, 400]
 
 // Color properties
