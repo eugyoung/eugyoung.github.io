@@ -114,9 +114,9 @@ $(".years").css("color", instyearcolor);
 $(".years").css("font-size", instyearsize);
 
 // abstract button
-$(document).ready(function () {
+/*$(document).ready(function () {
     $(".toggle-abstract").on("click", function () {
         $(this).closest("p").next(".abstract-content").slideToggle(200);
     });
 });
-
+*/

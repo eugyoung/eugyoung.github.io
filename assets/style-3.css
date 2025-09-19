@@ -1,3 +1,12 @@
+footer {
+    text-align: center !important; /* forces centering */
+    width: 100%;                   /* ensures it spans full width */
+}
+footer p {
+    margin: 0;                     /* optional: remove default spacing */
+}
+
+
 .instilogo {
     height: 50px;
     filter: grayscale(20%);
@@ -98,6 +107,69 @@ a:hover {
     width: 30px;
     height: 30px;
     background-size: contain;
+}
+
+/* Publication Entry with Image */
+.publication-entry {
+    display: flex;
+    align-items: flex-start;
+    gap: 15px;
+    margin-bottom: 20px;
+    flex-wrap: wrap; /* allows stacking on small screens */
+}
+
+.pub-thumb {
+    width: 100px;  /* increased size */
+    height: 100px; /* keep square aspect */
+    object-fit: cover;
+    border-radius: 4px;
+    flex-shrink: 0; /* prevents shrinking too much in flex */
+}
+
+.pub-text {
+    flex: 1;
+    min-width: 200px;
+    text-align: justify;
+}
+
+
+/* Hidden abstract by default */
+.abstract-content {
+    display: none;
+    margin-top: 5px;
+    padding-left: 5px;
+    font-style: italic;
+    color: #555;
+}
+
+/* Responsive tweak for very small screens */
+@media (max-width: 576px) {
+    .pub-thumb {
+        width: 80px;
+        height: 80px;
+        margin-bottom: 10px;
+    }
+}
+
+/* Hidden abstract by default */
+.abstract-content {
+    display: none;
+    margin-top: 5px;
+    padding-left: 5px;
+    font-style: italic;
+    color: #555;
+}
+
+@media (max-width: 600px) {
+    .pub-thumb {
+        width: 80px;
+        height: 80px;
+        margin-bottom: 10px;
+    }
+
+    .pub-text {
+        text-align: left;
+    }
 }
 
 
