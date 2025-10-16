@@ -3,8 +3,8 @@ const fontname = "Source+Sans+3";
 const fontweights = [300, 400]
 
 // Color properties
-const basecolor = "#777";
-const accentcolor = "#007";
+const basecolor = "#000";
+const accentcolor = "#000";
 const highlightcolor = "#111";
 
 // const basecolor = "#888";
@@ -18,7 +18,7 @@ const backgroundcolor = "#FFFAF0";
 
 // Link properties
 const acolor = accentcolor;
-const adecoration = "underline dotted";
+const adecoration = "underline";
 // const ahovercolor = accentcolor;
 // const ahoverduration = "0.3s";
 // const ahoverdecoration = "none"; //none, underline, overline, dotted, color (https://www.w3schools.com/cssref/pr_text_text-decoration.asp)
@@ -120,3 +120,48 @@ $(".years").css("font-size", instyearsize);
     });
 });
 */
+
+// ... all your existing code above ...
+
+$(".years").css("color", instyearcolor);
+$(".years").css("font-size", instyearsize);
+
+// abstract button
+/*$(document).ready(function () {
+    $(".toggle-abstract").on("click", function () {
+        $(this).closest("p").next(".abstract-content").slideToggle(200);
+    });
+});
+*/
+
+// Filter functionality
+$(document).ready(function() {
+    const filterTags = $('.filter-tag');
+    const publications = $('.publication-entry');
+    
+    filterTags.on('click', function() {
+        const filterValue = $(this).attr('data-filter');
+        
+        // Toggle active state
+        if ($(this).hasClass('active')) {
+            $(this).removeClass('active');
+            // Show all publications
+            publications.removeClass('hidden');
+        } else {
+            // Remove active from all tags
+            filterTags.removeClass('active');
+            // Add active to clicked tag
+            $(this).addClass('active');
+            
+            // Filter publications
+            publications.each(function() {
+                const pubTags = $(this).attr('data-tags');
+                if (pubTags && pubTags.includes(filterValue)) {
+                    $(this).removeClass('hidden');
+                } else {
+                    $(this).addClass('hidden');
+                }
+            });
+        }
+    });
+});

@@ -26,49 +26,52 @@
 
     <!-- <h1>Hello, world!</h1> -->
     <div class="container pt-5 allstuffp">
-        <div class="row pt-5 allstuff">
-            <div class="col-md-3 pt-5">
-                <div class="fixed-posi">
-                    <!-- <p class="name">Eugy Han</p> -->
-                    <img src="images/profile.jpg" class="profilepic pt-3 pb-2">
-                    <div class="pt-5 menur"><a class="menulink" target="_blank" href="https://drive.google.com/file/d/1LvfVUbDa6NAAJJKNjV5wFABSxlf02AaT/view?usp=sharing">curriculum vitae</a></div>
-                    <div class=""><a class="menulink" target="_blank" href="https://scholar.google.com/citations?user=VYD3EMcAAAAJ&hl=en&oi=ao">google scholar</a></div>
-                    <div class=""><a class="menulink" target="_blank" href="mailto:eugyoung.han@ufl.edu">email</a></div>
-
-
-                    <!-- <div class="pt-5">usercontext</div> -->
-                    <!-- <div class="">travel history</div> -->
-                    <!-- <div class="">this template</div> -->
-                </div>
+        <!-- Top Navigation Bar -->
+        <div class="top-nav">
+            <div class="nav-name">Eugy Han</div>
+            <div class="nav-links">
+                <a class="menulink" target="_blank" href="https://drive.google.com/file/d/1LvfVUbDa6NAAJJKNjV5wFABSxlf02AaT/view?usp=sharing">curriculum vitae</a>
+                <a class="menulink" target="_blank" href="https://scholar.google.com/citations?user=VYD3EMcAAAAJ&hl=en&oi=ao">google scholar</a>
+                <a class="menulink" target="_blank" href="mailto:eugyoung.han@ufl.edu">email</a>
             </div>
-            <div class="col-md-9 pt-5 about">
+        </div>
+
+        <!-- Main Content (full width now) -->
+        <div class="row pt-5">
+            <div class="col-12 about">
                 Hi, my name is Eugy. I am an Assistant Professor in the <a class="in-text" href="https://www.jou.ufl.edu/mpmt/" target="_blank">Department of Media Production, Management, and Technology</a> (in the College of Journalism & Communication) at the University of Florida. I received my Ph.D. in Communication (Media Psychology) in 2025 from Stanford University, where I was advised by Professor Jeremy N. Bailenson at the Virtual Human Interaction Lab. Before Stanford, I earned my B.S. in Cognitive Science in 2020 from Brown University, where I was advised by Professor William H. Warren at the Virtual Environment Navigation Lab<br><br>
 
                 My research focuses on understanding what social interactions look like in immersive virtual environments, such as virtual and mixed reality. Specifically, I investigate how contextual factors — physical, virtual, and social — influence these interactions. I conduct large-scale, longitudinal studies to understand outcomes such as nonverbal behaviors and psychological processes. My work related to this has been covered by <a class="in-text" href="https://news.stanford.edu/stories/2022/12/vr-real-impact-study-finds" target="_blank">Stanford News</a>.<br><br>
 
                 Another thread of my research focuses on how we can integrate immersive technologies in sustainable and equitable ways into education. My work related to this has been covered by <a class="in-text" href="https://www.cnn.com/2022/01/27/tech/vr-classes/index.html" target="_blank">CNN</a> and <a class="in-text" href="https://news.stanford.edu/stories/2021/11/new-class-among-first-taught-entirely-virtual-reality" target="_blank">Stanford News</a>.
 
- <!--               <p class="header pt-5">What's Going On...</p>
-                <div class="py-2">
-                 <p class="paper my-2 pl-2">
-                     <span class="papertitle">Joining UF in the Fall! 🐊</span><br>
-                     I'll be joining the <a class="in-text" href="https://www.jou.ufl.edu/mpmt/" target="_blank">Department of Media Production, Management, and Technology (MPMT)</a> in the College of Journalism and Communications (CJC) at the University of Florida starting Fall 2025.
-                 </p>
-                 Include another whole div class py-2 if you want more space between each item -->
-<!--                  <p class="paper my-2 pl-2">
-                     <span class="papertitle">See you at AWE 2025 👓</span><br>
-                     I'll be speaking at the Augmented World Expo (AWE) on a <a class="in-text" href="https://awexr.com/usa-2025/agenda/1156" target="_blank">panel</a> on "AI NPCs in Embodied Forums: Humans & NPCs in Social, Education and Business 3D Worlds."
-                 </p> -->
+                <p class="header pt-5">Selected Publications</p>
+                Below are some of my highlighted works. You can also read my full <a class="in-text" href="https://drive.google.com/file/d/1LvfVUbDa6NAAJJKNjV5wFABSxlf02AaT/view?usp=sharing" target="_blank">CV</a>, which includes a full list of publications, including journal articles, conference proceedings, non-archival conference papers/posters, and book chapters.<br><br>
 
-                 <p class="header pt-5">Selected Publications</p>
-                 Below are my <b>highlighted</b> works. You can also read my full <a class="in-text" href="https://drive.google.com/file/d/1hMepIACGgwjb-UV59gIHSYwf6WtlUdJK/view?usp=drive_link" target="_blank">CV</a>, which includes a full list of publications, including journal articles, conference proceedings, non-archival conference papers/posters, and book chapters.<br><br>
+                <!-- Tags and publications continue as before -->
+                <div class="filter-container">
+                    <div class="filter-title">Tags</div>
+                    <div class="filter-tags">
+                        <span class="filter-tag tag-interactions" data-filter="interactions">social interactions</span>
+                        <span class="filter-tag tag-learning" data-filter="learning">learning</span>
+                        <span class="filter-tag tag-creativity" data-filter="creativity">creativity</span>
+                        <span class="filter-tag tag-environment" data-filter="environment">environment</span>
+                        <span class="filter-tag tag-misc" data-filter="misc">misc</span>
+                    </div>
+                </div>
+
+                <!-- All your publications go here as before -->
 
 
-                 <!-- Publication Entry 0 -->
-                 <div class="publication-entry">
+
+                <!-- Publication Entry 0 -->
+                <div class="publication-entry" data-tags="misc">
                     <img src="images/pubCover_nhb2025.png" alt="Nature Human Behavior cover" class="pub-thumb">
                     <div class="pub-text">
                         <span class="papertitle">Five canonical findings from 30 years of psychological experimentation in virtual reality</span><br>
+                        <div class="pub-tags">
+                            <span class="pub-tag tag-misc">misc</span>
+                        </div>
                         Jeremy N. Bailenson, Cyan DeVeaux, <span class="thisauthor">Eugy Han</span>, Monique Santoso, and Portia Wang<br>
                         <i>Nature Human Behavior</i>, 2025<br>
                         <a class="tag" href="assets/pdfs/bailenson-nhb-2025.pdf" target="_blank">pdf</a>
@@ -89,126 +92,150 @@
                 </div>
 
 
-                <div class="publications">
-                    <!-- Publication 1 -->
-                    <div class="publication-entry">
-                        <img src="images/pubCover_creativity.png" alt="VR Mobility" class="pub-thumb">
-                        <div class="pub-text">
-                            <span class="papertitle">Understanding the Role of Virtual Mobility on How and What People Create in Virtual Reality</span><br>
-                            <span class="thisauthor">Eugy Han</span>, Portia Wang, Cyan DeVeaux, Gabriella M. Harari, and Jeremy N. Bailenson<br>
-                            <i>Thinking Skills & Creativity</i>, 2025<br>
-                            <a class="tag" href="assets/pdfs/han-tsc-2025.pdf" target="_blank">pdf</a><span class="tagsep">|</span>
-                            <a class="tag" href="https://www.sciencedirect.com/science/article/pii/S1871187124002372" target="_blank">website</a><span class="tagsep">|</span>
-                            <a class="tag toggle-abstract" href="javascript:void(0);">nutshell description</a>
-                            <div class="abstract-content">
-                                <p>This article (1) looks at the role of virtual mobility on how/what people create in VR and (2) introduces a VR-specific creativity coding scheme. Restricted movement leads to fewer deletions, fewer 3D models, shorter creations, and less practical designs.</p>
-                            </div>
+                <!-- Publication 1 -->
+                <div class="publication-entry" data-tags="creativity">
+                    <img src="images/pubCover_creativity.png" alt="VR Mobility" class="pub-thumb">
+                    <div class="pub-text">
+                        <span class="papertitle">Understanding the Role of Virtual Mobility on How and What People Create in Virtual Reality</span><br>
+                        <div class="pub-tags">
+                            <span class="pub-tag tag-creativity">creativity</span>
+                        </div>
+                        <span class="thisauthor">Eugy Han</span>, Portia Wang, Cyan DeVeaux, Gabriella M. Harari, and Jeremy N. Bailenson<br>
+                        <i>Thinking Skills & Creativity</i>, 2025<br>
+                        <a class="tag" href="assets/pdfs/han-tsc-2025.pdf" target="_blank">pdf</a><span class="tagsep">|</span>
+                        <a class="tag" href="https://www.sciencedirect.com/science/article/pii/S1871187124002372" target="_blank">website</a><span class="tagsep">|</span>
+                        <a class="tag toggle-abstract" href="javascript:void(0);">nutshell description</a>
+                        <div class="abstract-content">
+                            <p>This article (1) looks at the role of virtual mobility on how/what people create in VR and (2) introduces a VR-specific creativity coding scheme. Restricted movement leads to fewer deletions, fewer 3D models, shorter creations, and less practical designs.</p>
                         </div>
                     </div>
+                </div>  
 
-                    <!-- Publication 2 -->
-                    <div class="publication-entry">
-                        <img src="images/pubCover_mac2024.png" alt="VR Training" class="pub-thumb">
-                        <div class="pub-text">
-                            <span class="papertitle">How Different Training Types and Computer Anxiety Influence Performance and Experiences in Virtual Reality</span><br>
-                            <span class="thisauthor">Eugy Han</span>, Ian Strate, Kristine L. Nowak, and Jeremy N. Bailenson<br>
-                            <i>Media and Communication</i>, 2024<br>
-                            <a class="tag" href="assets/pdfs/han-mac-2024.pdf" target="_blank">pdf</a><span class="tagsep">|</span>
-                            <a class="tag" href="https://www.cogitatiopress.com/mediaandcommunication/article/view/8730" target="_blank">website</a><span class="tagsep">|</span>
-                            <a class="tag toggle-abstract" href="javascript:void(0);">nutshell description</a>
-                            <div class="abstract-content">
-                                <p>This article explores how different VR training methods (paper, video, VR) affect user experience, with tech anxiety influencing performance. Video or VR training helped mastery and reduced negative experiences; high tech anxiety participants struggled more regardless of method.</p>
-                            </div>
+
+                <!-- Publication 2 -->
+                <div class="publication-entry" data-tags="learning">
+                    <img src="images/pubCover_mac2024.png" alt="VR Training" class="pub-thumb">
+                    <div class="pub-text">
+                        <span class="papertitle">How Different Training Types and Computer Anxiety Influence Performance and Experiences in Virtual Reality</span><br>
+                        <div class="pub-tags">
+                            <span class="pub-tag tag-learning">learning</span>
+                        </div>
+                        <span class="thisauthor">Eugy Han</span>, Ian Strate, Kristine L. Nowak, and Jeremy N. Bailenson<br>
+                        <i>Media and Communication</i>, 2024<br>
+                        <a class="tag" href="assets/pdfs/han-mac-2024.pdf" target="_blank">pdf</a><span class="tagsep">|</span>
+                        <a class="tag" href="https://www.cogitatiopress.com/mediaandcommunication/article/view/8730" target="_blank">website</a><span class="tagsep">|</span>
+                        <a class="tag toggle-abstract" href="javascript:void(0);">nutshell description</a>
+                        <div class="abstract-content">
+                            <p>This article explores how different VR training methods (paper, video, VR) affect user experience, with tech anxiety influencing performance. Video or VR training helped mastery and reduced negative experiences; high tech anxiety participants struggled more regardless of method.</p>
                         </div>
                     </div>
-
-                    <!-- Publication 3 -->
-                    <div class="publication-entry">
-                        <img src="images/pubCover_presence2024.png" alt="Nonverbal VR" class="pub-thumb">
-                        <div class="pub-text">
-                            <span class="papertitle">Alone Together, Together Alone: The Effects of Social Context on Nonverbal Behavior in Virtual Reality</span><br>
-                            <span class="thisauthor">Eugy Han</span>, Cyan DeVeaux, Mark Roman Miller, Gabriella M. Harari, Jeffrey T. Hancock, Nilam Ram, and Jeremy N. Bailenson<br>
-                            <i>PRESENCE: Virtual and Augmented Reality</i>, 2024<br>
-                            <a class="tag" href="assets/pdfs/han-presence-2024.pdf" target="_blank">pdf</a><span class="tagsep">|</span>
-                            <a class="tag" href="https://direct.mit.edu/pvar/article-abstract/doi/10.1162/pres_a_00432/123565/Alone-Together-Together-Alone-The-Effects-of" target="_blank">website</a><span class="tagsep">|</span>
-                            <a class="tag toggle-abstract" href="javascript:void(0);">nutshell description</a>
-                            <div class="abstract-content">
-                                <p>This 2-study article examines how virtual and physical social contexts affect nonverbal behavior. Study 1 (virtual) and Study 2 (physical) show variations in avatar movement, gaze, and interpersonal distance depending on the context.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Publication 4 -->
-                    <div class="publication-entry">
-                        <img src="images/pubCover_groupChat.png" alt="VR Classroom" class="pub-thumb">
-                        <div class="pub-text">
-                            <span class="papertitle">Lessons for/in Virtual Classrooms: Designing a Model for Classrooms inside Virtual Reality</span><br>
-                            <span class="thisauthor">Eugy Han</span> and Jeremy N. Bailenson<br>
-                            <i>Communication Education</i>, 2024<br>
-                            <a class="tag" href="assets/pdfs/han-commed-2024.pdf" target="_blank">pdf</a><span class="tagsep">|</span>
-                            <a class="tag" href="https://www.tandfonline.com/doi/full/10.1080/03634523.2024.2312879" target="_blank">website</a><span class="tagsep">|</span>
-                            <a class="tag" href="https://www.cnn.com/2022/01/27/tech/vr-classes/index.html" target="_blank">news coverage</a><span class="tagsep">|</span>
-                            <a class="tag" href="https://news.stanford.edu/stories/2021/11/new-class-among-first-taught-entirely-virtual-reality" target="_blank">news coverage 2</a><span class="tagsep">|</span>
-                            <a class="tag toggle-abstract" href="javascript:void(0);">nutshell description</a>
-                            <div class="abstract-content">
-                                <p>This article discusses integrating VR into classrooms through the <i>Virtual People</i> course. Key insights: acclimate students, select tasks, manage technical issues, and plan physical & virtual course setups.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Publication 5 -->
-                    <div class="publication-entry">
-                        <img src="images/pubCover_jep2024.png" alt="VR Environment" class="pub-thumb">
-                        <div class="pub-text">
-                            <span class="papertitle">The Influence of Spatial Dimensions of Virtual Environments on Individuals and Group Dynamics During Social Interactions</span><br>
-                            <span class="thisauthor">Eugy Han</span>, Cyan DeVeaux, Jeffrey T. Hancock, Nilam Ram, Gabriella M. Harari, and Jeremy N. Bailenson<br>
-                            <i>Journal of Environmental Psychology</i>, 2024<br>
-                            <a class="tag" href="assets/pdfs/han-jep-2024.pdf" target="_blank">pdf</a><span class="tagsep">|</span>
-                            <a class="tag" href="https://www.sciencedirect.com/science/article/pii/S0272494424000422" target="_blank">website</a><span class="tagsep">|</span>
-                            <a class="tag toggle-abstract" href="javascript:void(0);">nutshell description</a>
-                            <div class="abstract-content">
-                                <p>This article studies how virtual room properties (ceiling height, floor size) influence attitudes and nonverbal behavior during social interactions in VR. High ceilings increased restorativeness, awe, and social attention; larger floors increased awe; both factors combined influenced movement and interpersonal distance.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Publication 6 -->
-                    <div class="publication-entry">
-                        <img src="images/pubCover_jcmc2023.png" alt="Metaverse Study" class="pub-thumb">
-                        <div class="pub-text">
-                            <span class="papertitle">People, Places, and Time: A Large-scale, Longitudinal Study of Transformed Avatars and Environmental Context in Group Interaction in the Metaverse</span><br>
-                            <span class="thisauthor">Eugy Han</span>, Mark Roman Miller, Cyan Deveaux, Hanseul Jun, Kristine L. Nowak, Jeffrey T. Hancock, Nilam Ram, and Jeremy N. Bailenson<br>
-                            <i>Journal of Computer-Mediated Communication</i>, 2023<br>
-                            <a class="tag" href="assets/pdfs/han-jcmc-2023.pdf" target="_blank">pdf</a><span class="tagsep">|</span>
-                            <a class="tag" href="https://academic.oup.com/jcmc/article/28/2/zmac031/6972657?searchresult=1&login=true" target="_blank">website</a><span class="tagsep">|</span>
-                            <a class="tag" href="https://news.stanford.edu/stories/2022/12/vr-real-impact-study-finds" target="_blank">news coverage</a><span class="tagsep">|</span>
-                            <a class="tag toggle-abstract" href="javascript:void(0);">nutshell description</a>
-                            <div class="abstract-content">
-                                <p>This 2-study article shows how avatar appearance and environmental context influence attitudes and behaviors in VR. Self-presence and realism increased over time; avatars resembling participants increased nonverbal synchrony but reduced enjoyment; outdoor spaces increased restorativeness and enjoyment.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Publication 7 -->
-                    <div class="publication-entry">
-                        <img src="images/pubCover_tmb2022.jpg" alt="Prerequisites Learning" class="pub-thumb">
-                        <div class="pub-text">
-                            <span class="papertitle">Prerequisites for Learning in Networked Immersive Virtual Reality</span><br>
-                            <span class="thisauthor">Eugy Han</span>, Kristine L. Nowak, and Jeremy N. Bailenson<br>
-                            <i>Technology, Mind, & Behavior</i>, 2022<br>
-                            <a class="tag" href="assets/pdfs/han-tmb-2022.pdf" target="_blank">pdf</a><span class="tagsep">|</span>
-                            <a class="tag" href="https://tmb.apaopen.org/pub/xuyqf7l0/release/1" target="_blank">website</a><span class="tagsep">|</span>
-                            <a class="tag toggle-abstract" href="javascript:void(0);">nutshell description</a>
-                            <div class="abstract-content">
-                                <p>This study examines the challenges of implementing VR in distance education. Key takeaway: students must first learn VR itself before they can learn inside VR effectively.</p>
-                            </div>
-                        </div>
-                    </div>
-
                 </div>
 
+                <!-- Publication 3 -->
+                <div class="publication-entry" data-tags="interactions environment">
+                    <img src="images/pubCover_presence2024.png" alt="Nonverbal VR" class="pub-thumb">
+                    <div class="pub-text">
+                        <span class="papertitle">Alone Together, Together Alone: The Effects of Social Context on Nonverbal Behavior in Virtual Reality</span><br>
+                        <div class="pub-tags">
+                            <span class="pub-tag tag-interactions">interactions</span>
+                            <span class="pub-tag tag-environment">environment</span>
+                        </div>
+                        <span class="thisauthor">Eugy Han</span>, Cyan DeVeaux, Mark Roman Miller, Gabriella M. Harari, Jeffrey T. Hancock, Nilam Ram, and Jeremy N. Bailenson<br>
+                        <i>PRESENCE: Virtual and Augmented Reality</i>, 2024<br>
+                        <a class="tag" href="assets/pdfs/han-presence-2024.pdf" target="_blank">pdf</a><span class="tagsep">|</span>
+                        <a class="tag" href="https://direct.mit.edu/pvar/article-abstract/doi/10.1162/pres_a_00432/123565/Alone-Together-Together-Alone-The-Effects-of" target="_blank">website</a><span class="tagsep">|</span>
+                        <a class="tag toggle-abstract" href="javascript:void(0);">nutshell description</a>
+                        <div class="abstract-content">
+                            <p>This 2-study article examines how virtual and physical social contexts affect nonverbal behavior. Study 1 (virtual) and Study 2 (physical) show variations in avatar movement, gaze, and interpersonal distance depending on the context.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Publication 4 -->
+                <div class="publication-entry" data-tags="learning">
+                    <img src="images/pubCover_groupChat.png" alt="VR Classroom" class="pub-thumb">
+                    <div class="pub-text">
+                        <span class="papertitle">Lessons for/in Virtual Classrooms: Designing a Model for Classrooms inside Virtual Reality</span><br>
+                        <div class="pub-tags">
+                            <span class="pub-tag tag-learning">learning</span>
+                        </div>
+                        <span class="thisauthor">Eugy Han</span> and Jeremy N. Bailenson<br>
+                        <i>Communication Education</i>, 2024<br>
+                        <a class="tag" href="assets/pdfs/han-commed-2024.pdf" target="_blank">pdf</a><span class="tagsep">|</span>
+                        <a class="tag" href="https://www.tandfonline.com/doi/full/10.1080/03634523.2024.2312879" target="_blank">website</a><span class="tagsep">|</span>
+                        <a class="tag" href="https://www.cnn.com/2022/01/27/tech/vr-classes/index.html" target="_blank">news coverage</a><span class="tagsep">|</span>
+                        <a class="tag" href="https://news.stanford.edu/stories/2021/11/new-class-among-first-taught-entirely-virtual-reality" target="_blank">news coverage 2</a><span class="tagsep">|</span>
+                        <a class="tag toggle-abstract" href="javascript:void(0);">nutshell description</a>
+                        <div class="abstract-content">
+                            <p>This article discusses integrating VR into classrooms through the <i>Virtual People</i> course. Key insights: acclimate students, select tasks, manage technical issues, and plan physical & virtual course setups.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Publication 5 -->
+                <div class="publication-entry" data-tags="interactions environment">
+                    <img src="images/pubCover_jep2024.png" alt="VR Environment" class="pub-thumb">
+                    <div class="pub-text">
+                        <span class="papertitle">The Influence of Spatial Dimensions of Virtual Environments on Individuals and Group Dynamics During Social Interactions</span><br>
+                        <div class="pub-tags">
+                            <span class="pub-tag tag-interactions">interactions</span>
+                            <span class="pub-tag tag-environment">environment</span>
+                        </div>
+                        <span class="thisauthor">Eugy Han</span>, Cyan DeVeaux, Jeffrey T. Hancock, Nilam Ram, Gabriella M. Harari, and Jeremy N. Bailenson<br>
+                        <i>Journal of Environmental Psychology</i>, 2024<br>
+                        <a class="tag" href="assets/pdfs/han-jep-2024.pdf" target="_blank">pdf</a><span class="tagsep">|</span>
+                        <a class="tag" href="https://www.sciencedirect.com/science/article/pii/S0272494424000422" target="_blank">website</a><span class="tagsep">|</span>
+                        <a class="tag toggle-abstract" href="javascript:void(0);">nutshell description</a>
+                        <div class="abstract-content">
+                            <p>This article studies how virtual room properties (ceiling height, floor size) influence attitudes and nonverbal behavior during social interactions in VR. High ceilings increased restorativeness, awe, and social attention; larger floors increased awe; both factors combined influenced movement and interpersonal distance.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Publication 6 -->
+                <div class="publication-entry" data-tags="interactions environment">
+                    <img src="images/pubCover_jcmc2023.png" alt="Metaverse Study" class="pub-thumb">
+                    <div class="pub-text">
+                        <span class="papertitle">People, Places, and Time: A Large-scale, Longitudinal Study of Transformed Avatars and Environmental Context in Group Interaction in the Metaverse</span><br>
+                        <div class="pub-tags">
+                            <span class="pub-tag tag-interactions">interactions</span>
+                            <span class="pub-tag tag-environment">environment</span>
+                        </div>
+                        <span class="thisauthor">Eugy Han</span>, Mark Roman Miller, Cyan Deveaux, Hanseul Jun, Kristine L. Nowak, Jeffrey T. Hancock, Nilam Ram, and Jeremy N. Bailenson<br>
+                        <i>Journal of Computer-Mediated Communication</i>, 2023<br>
+                        <a class="tag" href="assets/pdfs/han-jcmc-2023.pdf" target="_blank">pdf</a><span class="tagsep">|</span>
+                        <a class="tag" href="https://academic.oup.com/jcmc/article/28/2/zmac031/6972657?searchresult=1&login=true" target="_blank">website</a><span class="tagsep">|</span>
+                        <a class="tag" href="https://news.stanford.edu/stories/2022/12/vr-real-impact-study-finds" target="_blank">news coverage</a><span class="tagsep">|</span>
+                        <a class="tag toggle-abstract" href="javascript:void(0);">nutshell description</a>
+                        <div class="abstract-content">
+                            <p>This 2-study article shows how avatar appearance and environmental context influence attitudes and behaviors in VR. Self-presence and realism increased over time; avatars resembling participants increased nonverbal synchrony but reduced enjoyment; outdoor spaces increased restorativeness and enjoyment.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Publication 7 -->
+                <div class="publication-entry" data-tags="learning">
+                    <img src="images/pubCover_tmb2022.jpg" alt="Prerequisites Learning" class="pub-thumb">
+                    <div class="pub-text">
+                        <span class="papertitle">Prerequisites for Learning in Networked Immersive Virtual Reality</span><br>
+                        <div class="pub-tags">
+                            <span class="pub-tag tag-learning">learning</span>
+                        </div>
+                        <span class="thisauthor">Eugy Han</span>, Kristine L. Nowak, and Jeremy N. Bailenson<br>
+                        <i>Technology, Mind, & Behavior</i>, 2022<br>
+                        <a class="tag" href="assets/pdfs/han-tmb-2022.pdf" target="_blank">pdf</a><span class="tagsep">|</span>
+                        <a class="tag" href="https://tmb.apaopen.org/pub/xuyqf7l0/release/1" target="_blank">website</a><span class="tagsep">|</span>
+                        <a class="tag toggle-abstract" href="javascript:void(0);">nutshell description</a>
+                        <div class="abstract-content">
+                            <p>This study examines the challenges of implementing VR in distance education. Key takeaway: students must first learn VR itself before they can learn inside VR effectively.</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
 
 
+        </div>
 
 <!-- <p class="header pt-5">Talks</p>
 <div class="py-2">
@@ -300,6 +327,7 @@
 
 </div>
 </div>
+
 
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->

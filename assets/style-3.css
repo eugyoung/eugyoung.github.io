@@ -1,11 +1,100 @@
-footer {
-    text-align: center !important; /* forces centering */
-    width: 100%;                   /* ensures it spans full width */
-}
-footer p {
-    margin: 0;                     /* optional: remove default spacing */
+/* Set font to Helvetica */
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: #ffffff !important;
+    color: #000000 !important;
 }
 
+html {
+    background-color: #ffffff !important;
+}
+
+/* Top Navigation Bar */
+.top-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+    border-bottom: 2px solid #e0e0e0;
+    margin-bottom: 30px;
+}
+
+.nav-name {
+    font-size: 24px;
+    font-weight: 700;
+    color: #000000;
+}
+
+.nav-links {
+    display: flex;
+    gap: 25px;
+}
+
+.nav-links .menulink {
+    color: #000000 !important;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+.nav-links .menulink:hover {
+    color: #111 !important;
+    text-decoration: underline;
+}
+
+/* Remove old sidebar styles */
+@media (min-width: 768px) {
+    .fixed-posi {
+        position: relative; 
+    }
+}
+
+/* Make content full width */
+.about {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.container {
+    background-color: #ffffff !important;
+}
+
+/* Remove any background colors from Bootstrap containers */
+.container, .container-fluid, .row, .col, .col-md-3, .col-md-9 {
+    background-color: transparent !important;
+}
+
+.allstuffp, .allstuff, .about {
+    background-color: #ffffff !important;
+}inks styling 
+
+a.in-text {
+    color: #000000 !important;
+    font-weight: 700;
+    text-decoration: none !important;
+}
+
+a.in-text:hover {
+    color: #333333 !important;
+    text-decoration: underline !important;
+}
+
+/* Bold black publication titles */
+.papertitle {
+    color: #000000 !important;
+    font-weight: 700 !important;
+    font-size: 15px;
+}
+
+footer {
+    text-align: center;
+    width: 100%;
+    background-color: #ffffff;
+    color: #000000;
+}
+
+footer p {
+    margin: 0;
+}
 
 .instilogo {
     height: 50px;
@@ -13,11 +102,14 @@ footer p {
 }
 
 a:hover {
-    /* font-weight: 400; */
-    text-decoration: none;
+    text-decoration: underline;
     transition-duration: 0.3s;
     transition-timing-function: linear;
-    /* color: #444; */
+}
+
+.header {
+    color: #000000 !important;
+    font-weight: 700 !important;
 }
 
 
@@ -29,9 +121,6 @@ a:hover {
     padding: 4px;
 }
 
-.tag {
-    padding-right: 2px;
-}
 
 .confshort {
     font-weight: 300;
@@ -46,60 +135,76 @@ a:hover {
     border-left: 1px solid #ddd;
 }
 
+.menulink {
+    color: #000000 !important;
+    font-weight: 300;
+}
+
 .menulink:hover {
-    color: #111;
+    color: #111 !important;
 }
 
 .profilepic {
     width: 150px;
-    border-radius: 25%;
+    border-radius: 0%;
     filter: grayscale(30%);
 }
 
 @media (min-width: 768px) {
     .fixed-posi {
-        /* width: 50%;
-            margin-left: 50%;
-            min-height:100%; */
         position: fixed;
     }
 }
 
 @media only screen and (max-width: 900px) {
     .allstuff {
-        padding-top: 0px !important;
+        padding-top: 0px;
     }
-
     .allstuffp {
-        padding-top: 0px !important;
+        padding-top: 0px;
     }
-
     .profilepic {
         width: 90px;
         border-radius: 40%;
-        padding-top: 0px !important;
-        padding-bottom: 0px !important;
+        padding-top: 0px;
+        padding-bottom: 0px;
         filter: grayscale(30%);
     }
-
     .menur {
-        padding-top: 18px !important;
+        padding-top: 18px;
     }
-
 }
 
-.toggle-abstract {
-    color: #007; /* Same as other links */
-    text-decoration: none;
-    cursor: pointer;
+/* Style for publication action links (pdf, website, nutshell) */
+.tag, .toggle-abstract {
+    display: inline-block;
+    padding: 6px 14px;
+    background-color: #000000;
+    color: #ffffff !important;
+    border-radius: 5px; 
+    text-decoration: none !important;
+    font-size: 12px;
+    font-weight: 500;
+    margin-right: 8px;
+    margin-top: 4px;
+    transition: all 0.3s;
+    opacity: 0.6;
 }
 
-.toggle-abstract:hover {
-    text-decoration: underline;
+.tag:hover, .toggle-abstract:hover {
+    background-color: #333333;
+    color: #ffffff !important;
+    text-decoration: none !important;
+    transform: translateY(-1px);
+    opacity: 1;
 }
 
+/* Hide the separator pipes */
+.tagsep {
+    display: none;
+}
 .abstract-content {
-    display: none; /* Ensures it's hidden initially */
+    display: none;
 }
 
 .navbar-toggler-icon {
@@ -109,21 +214,12 @@ a:hover {
     background-size: contain;
 }
 
-/* Publication Entry with Image */
-.publication-entry {
-    display: flex;
-    align-items: flex-start;
-    gap: 15px;
-    margin-bottom: 20px;
-    flex-wrap: wrap; /* allows stacking on small screens */
-}
-
 .pub-thumb {
-    width: 100px;  /* increased size */
-    height: 100px; /* keep square aspect */
+    width: 100px;
+    height: 100px;
     object-fit: cover;
-    border-radius: 4px;
-    flex-shrink: 0; /* prevents shrinking too much in flex */
+    border-radius: 0;  
+    flex-shrink: 0;
 }
 
 .pub-text {
@@ -132,8 +228,6 @@ a:hover {
     text-align: justify;
 }
 
-
-/* Hidden abstract by default */
 .abstract-content {
     display: none;
     margin-top: 5px;
@@ -142,7 +236,6 @@ a:hover {
     color: #555;
 }
 
-/* Responsive tweak for very small screens */
 @media (max-width: 576px) {
     .pub-thumb {
         width: 80px;
@@ -151,30 +244,115 @@ a:hover {
     }
 }
 
-/* Hidden abstract by default */
-.abstract-content {
-    display: none;
-    margin-top: 5px;
-    padding-left: 5px;
-    font-style: italic;
-    color: #555;
-}
-
 @media (max-width: 600px) {
     .pub-thumb {
         width: 80px;
         height: 80px;
         margin-bottom: 10px;
     }
-
     .pub-text {
         text-align: left;
     }
 }
 
+/* Tag Filter Styles */
+.filter-container {
+    margin: 20px 0;
+    padding: 15px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    border: 1px solid #e0e0e0;
+}
 
+.filter-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 10px;
+}
 
-/* .thisauthor {
-          color: #111;
-          text-decoration: underline;
-    } */
+.filter-tag {
+    padding: 8px 16px;
+    border-radius: 5px;  
+    cursor: pointer;
+    border: 2px solid transparent;
+    transition: all 0.3s;
+    font-size: 14px;
+    font-weight: 500;
+    opacity: 0.7;
+}
+
+.filter-title {
+    font-weight: 700;
+    font-size: 14px;
+    margin-bottom: 10px;
+    color: #000000;
+}
+
+.filter-tag:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    opacity: 1;
+}
+
+.filter-tag.active {
+    border-color: #000;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+/* Different colored tags */
+.tag-interactions {
+    background-color: #FFB6C1;
+    color: #8B0000;
+}
+
+.tag-learning {
+    background-color: #B0E0E6;
+    color: #00008B;
+}
+
+.tag-creativity {
+    background-color: #DDA0DD;
+    color: #4B0082;
+}
+
+.tag-environment {
+    background-color: #98FB98;
+    color: #006400;
+}
+
+.tag-misc {
+    background-color: #ffff66;
+    color: #006400;
+}
+
+/* Publication tags (small colored badges) */
+.pub-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 8px;
+}
+
+.pub-tag {
+    padding: 4px 10px;
+    border-radius: 5px;  
+    font-size: 11px;
+    font-weight: 600;
+}
+
+.publication-entry {
+    display: flex;
+    align-items: flex-start;
+    gap: 15px;
+    margin-bottom: 20px !important;
+    flex-wrap: wrap;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    border: 1px solid #e0e0e0; 
+}
+
+.publication-entry.hidden {
+    display: none;
+}
