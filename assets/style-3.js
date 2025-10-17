@@ -79,18 +79,6 @@ const instyearsize = "11px";
 $("head").append("<link href='https://fonts.googleapis.com/css2?family=" + fontname + ":wght@" + fontweights.join(';') + "&display=swap' rel='stylesheet' type='text/css'>");
 $("body").css("font-family", fontname);
 
-$("body").css("color", basecolor);
-$("body").css("font-weight", bodyfontweight);
-$("body").css("font-size", bodyfontsize);
-$("body").css("background-color", backgroundcolor);
-
-$("a").css("color", acolor);
-$("a").css("text-decoration", adecoration);
-
-$(".menulink").css("color", menucolor);
-$(".menulink").css("font-size", menufontsize);
-$(".menulink").css("text-decoration", menudecoration);
-
 $(".header").css("color", headercolor);
 $(".header").css("font-size", headerfontsize);
 $(".header").css("text-decoration", headerdecoration);
@@ -103,10 +91,6 @@ $(".papertitle").css("font-weight", ptitleweight);
 $(".papertitle").css("text-decoration", ptitledecoration);
 $(".papertitle").css("font-style", ptitlestyle);
 
-$(".thisauthor").css("color", selfcolor);
-$(".thisauthor").css("font-weight", selfweight);
-$(".thisauthor").css("text-decoration", selfdecoration);
-$(".thisauthor").css("font-style", selfstyle);
 
 $(".institution").css("color", insttitlecolor);
 $(".institution").css("font-size", insttitlesize);

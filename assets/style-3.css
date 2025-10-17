@@ -1,6 +1,5 @@
-/* Set font to Helvetica */
 body {
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Inconsolata', monospace;
     background-color: #ffffff !important;
     color: #000000 !important;
 }
@@ -20,9 +19,19 @@ html {
 }
 
 .nav-name {
-    font-size: 24px;
+    font-size: 28px;
     font-weight: 700;
-    color: #000000;
+    background: linear-gradient(90deg, #000000 0%, #666666 50%, #000000 100%);
+    background-size: 200% auto;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    transition: background-position 0.5s ease;
+    cursor: pointer;
+}
+
+.nav-name:hover {
+    background-position: 100% center;
 }
 
 .nav-links {
@@ -32,23 +41,28 @@ html {
 
 .nav-links .menulink {
     color: #000000 !important;
-    font-weight: 400;
-    text-decoration: none;
+    font-weight: 400 !important;
+    text-decoration: none !important;
+    position: relative;
+    padding-bottom: 2px;
+    background: linear-gradient(90deg, #000000 0%, #666666 50%, #000000 100%);
+    background-size: 200% auto;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    transition: background-position 0.5s ease;
 }
 
 .nav-links .menulink:hover {
-    color: #111 !important;
-    text-decoration: underline;
+    background-position: 100% center;
 }
 
-/* Remove old sidebar styles */
 @media (min-width: 768px) {
     .fixed-posi {
         position: relative; 
     }
 }
 
-/* Make content full width */
 .about {
     max-width: 900px;
     margin: 0 auto;
@@ -67,16 +81,70 @@ html {
     background-color: #ffffff !important;
 }inks styling 
 
+/* Gradient animation for in-text links */
 a.in-text {
     color: #000000 !important;
     font-weight: 700;
     text-decoration: none !important;
+    position: relative;
+    display: inline-block;
+    background: linear-gradient(90deg, #000000 0%, #666666 50%, #000000 100%);
+    background-size: 200% auto;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    transition: background-position 0.5s ease;
 }
 
 a.in-text:hover {
-    color: #333333 !important;
-    text-decoration: underline !important;
+    background-position: 100% center;
+    text-decoration: none !important;
 }
+
+/* Remove underline from all link hover states */
+a.in-text::after {
+    display: none;
+}
+
+.thisauthor {
+    color: #111;
+    font-weight: 700;
+    text-decoration: underline;
+    text-decoration-thickness: 0.5px;  
+    text-underline-offset: 3px;  
+    text-decoration-color: rgba(0, 0, 0, 0.4);  
+    font-style: normal;
+}
+
+.back-to-top {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+    color: #ffffff;
+    border: none;
+    border-radius: 50%;
+    font-size: 24px;
+    cursor: pointer;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s, visibility 0.3s, background-color 0.3s;
+    z-index: 1000;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+}
+
+.back-to-top.show {
+    opacity: 0.7;
+    visibility: visible;
+}
+
+.back-to-top:hover {
+    opacity: 1;
+    background-color: #333333;
+}
+
 
 /* Bold black publication titles */
 .papertitle {
@@ -101,11 +169,6 @@ footer p {
     filter: grayscale(20%);
 }
 
-a:hover {
-    text-decoration: underline;
-    transition-duration: 0.3s;
-    transition-timing-function: linear;
-}
 
 .header {
     color: #000000 !important;
@@ -148,12 +211,6 @@ a:hover {
     width: 150px;
     border-radius: 0%;
     filter: grayscale(30%);
-}
-
-@media (min-width: 768px) {
-    .fixed-posi {
-        position: fixed;
-    }
 }
 
 @media only screen and (max-width: 900px) {
@@ -236,14 +293,6 @@ a:hover {
     color: #555;
 }
 
-@media (max-width: 576px) {
-    .pub-thumb {
-        width: 80px;
-        height: 80px;
-        margin-bottom: 10px;
-    }
-}
-
 @media (max-width: 600px) {
     .pub-thumb {
         width: 80px;
@@ -252,6 +301,14 @@ a:hover {
     }
     .pub-text {
         text-align: left;
+    }
+
+    .back-to-top {
+        bottom: 20px;
+        right: 20px;
+        width: 45px;
+        height: 45px;
+        font-size: 20px;
     }
 }
 
